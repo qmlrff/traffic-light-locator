@@ -12,38 +12,30 @@ body {
 }
 
 /* Style the sidebar. */
-/* Style the sidebar. */
 #sidebar {
   width: 340px;
   padding: 10px;
   background-color: #ffffff;
-  display: flex;          /* <-- ADD THIS */
-  flex-direction: column; /* <-- ADD THIS */
-  /* overflow-y: auto; (This line should be removed) */
+  display: flex;         
+  flex-direction: column;
 }
 
 #sidebar h2 {
-  /* --- To change SIZE --- */
-  font-size: 22px; /* Default is larger; 20px is smaller */
-
-  /* --- To change POSITION (Alignment) --- */
-  text-align: center; /* Options: 'left', 'right', 'center' */
-
-  /* --- To change POSITION (Spacing) --- */
-  margin-top: 0px;    /* Space above the title */
-  margin-bottom: 10px; /* Space below the title */
+  font-size: 22px;
+  text-align: center;
+  margin-top: 0px;   
+  margin-bottom: 10px;
 }
 #sidebar h2 .title-icon {
-    width: 22px;  /* Adjust width as needed */
-    height: 22px; /* Adjust height as needed */
-    vertical-align: middle; /* Helps align the image with the text */
+    width: 22px; 
+    height: 22px;
+    vertical-align: middle;
 }
 /* --- Global Search (Top) --- */
 #global-search-container {
-  position: relative; /* This lets us position the button inside */
+  position: relative;
 }
 
-/* Style for the global search box */
 #global-search-box {
   width: 100%;
   padding: 10px;
@@ -52,15 +44,13 @@ body {
   border: 1px solid #696969;
   border-radius: 50px;
   font-size: 14px;
-   
 }
 
-/* Style for the clear button */
 #clear-search-btn {
-  position: absolute; /* Position it *inside* the container */
+  position: absolute;
   right: 5px;
   top: 40%;
-  transform: translateY(-50%); /* Vertical centering */
+  transform: translateY(-50%);
   width: 25px;
   height: 25px;
   padding: 0;
@@ -82,19 +72,17 @@ body {
   margin-bottom: 10px;
 }
 
-/* Style the filter search input box */
 #search-box {
   width: 100%;
-  padding: 12px; /* Made the box taller */
+  padding: 12px;
   box-sizing: border-box;
   border: 1px solid #696969;
-  border-radius: 50px; /* Google's style */
+  border-radius: 50px;
   padding-right: 35px; 
   margin-bottom: 0; 
-  font-size: 14px; /* Text size in the box */
+  font-size: 14px;
 }
 
-/* New style for the filter clear button */
 #clear-filter-btn {
   position: absolute;
   right: 5px;
@@ -131,49 +119,17 @@ body {
 #find-me-btn:hover {
   background-color: #0056b3;
 }
-
-/* --- Filter Buttons --- */
-#filter-controls {
-  margin-bottom: 0px;
-  padding-bottom: 10px;
-
-  border-bottom: 1px solid #ddd;
-}
-
-#filter-controls strong {
-  display: inline-block; 
-  margin-bottom: 8px; 
-}
-
-/* Style the buttons themselves */
-#filter-controls button {
-  padding: 5px  10px;
-  border: 1px solid #696969;
-  background-color: #ffffff;
-  cursor: pointer;
-      border-radius: 50px;
-  margin-right: 5px;
-}
-
-/* Style for when a button is hovered over */
-#filter-controls button:hover {
-  background-color: #ddd;
-}
-
-/* Style for the *active* filter button */
-#filter-controls button.active-filter {
-  background-color: #007bff;
-  color: white;
-  font-weight: bold;
-}
-/* Add this rule to remove the default padding */
-#traffic-light-list {
-  padding-left: 0;
-  flex-grow: 1;       /* <-- ADD THIS */
-  overflow-y: auto;   /* <-- ADD THIS */
-  min-height: 0;      /* <-- ADD THIS */
+/* --- New Scrollable Area Style --- */
+#scrollable-area {
+  flex-grow: 1;       /* Make this area fill the sidebar */
+  overflow-y: auto;   /* Make *this* area scrollable */
+  min-height: 0;      /* Required for flex scrolling */
 }
 /* --- Traffic Light List --- */
+#traffic-light-list {
+  padding-left: 0;
+}
+
 #traffic-light-list li {
   padding: 8px;
   cursor: pointer;
@@ -182,12 +138,10 @@ body {
   list-style-type: none;
 }
 
-/* Style for when a list item is hovered over */
 #traffic-light-list li:hover {
   background-color: #ddd;
 }
 
-/* This is the new style for the *selected* item */
 #traffic-light-list li.active-list-item {
   background-color: #cedbfd;
   font-weight: normal;
@@ -196,12 +150,13 @@ body {
 
 /* --- Map Container --- */
 #map {
-  flex-grow: 1; /* This tells the map to grow and fill all available space. */
-  height: 100%; /* This tells the map to be 100% tall. */
+  flex-grow: 1; 
+  height: 100%;
 }
+
 /* --- New Filter Checkbox Styles --- */
 #filter-controls {
-  margin-bottom: 10px; /* Reduced margin */
+  margin-bottom: 10px;
   padding-bottom: 10px;
   border-bottom: 1px solid #ddd;
 }
@@ -211,9 +166,9 @@ body {
   margin-bottom: 8px; 
 }
 
-/* This is the merged style for all buttons inside the filter */
+/* This hides the old buttons */
 #filter-controls button {
-  display: none; /* Hide the old buttons */
+  display: none;
 }
 
 .filter-option {
@@ -224,8 +179,7 @@ body {
 }
 
 .filter-option input[type="checkbox"] {
-  margin-right: 8px; /* Space between checkbox and label */
-  /* Make the checkbox slightly larger */
+  margin-right: 8px; 
   width: 16px;
   height: 16px;
 }
@@ -239,11 +193,11 @@ body {
   color: #007bff;
 }
 
-/* --- New styles for horizontal filters --- */
+/* --- styles for horizontal filters --- */
 #filter-options-wrapper {
   display: flex;     /* Aligns children in a row */
-  flex-wrap: wrap;   /* Allows them to wrap to the next line if space runs out */
-  margin-top: 5px;   /* <-- FIXED! (was "px;") */
+  flex-wrap: wrap;   /* Allows them to wrap */
+  margin-top: 5px;   /* Fixed! */
 }
 
 #intersection-options-wrapper {
@@ -253,27 +207,25 @@ body {
 }
 
 /* --- Mobile Responsive Styles --- */
-
-/* This rule applies to any screen 700px wide or less */
 @media (max-width: 700px) {
 
   /* 1. Stack the main containers */
   #app-container {
     flex-direction: column; /* Stack sidebar and map */
-    height: auto; /* Let height be automatic */
+    height: auto; 
   }
 
   /* 2. Adjust sidebar for mobile */
   #sidebar {
-    width: 100%;       /* Take full width */
-    height: 40vh;      /* Give sidebar 40% of viewport height */
-    box-sizing: border-box; /* Include padding in the width */
+    width: 100%;       
+    height: 40vh;      /* Sidebar takes top 40% */
+    box-sizing: border-box; 
   }
 
   /* 3. Give the map a fixed height */
   #map {
-    width: 100%;  /* Map also full width */
-    height: 60vh; /* Make map 60% of the viewport height */
+    width: 100%;  
+    height: 60vh; /* Map takes bottom 60% */
   }
   
   /* 4. Make filter groups stack */
@@ -286,67 +238,5 @@ body {
   .filter-option {
     margin-right: 0; /* Remove side margin */
   }
-}
-.filter-option input[type="checkbox"] {
-  margin-right: 8px; /* Space between checkbox and label */
-  /* Make the checkbox slightly larger */
-  width: 16px;
-  height: 16px;
-}
-
-.filter-option label {
-  font-size: 15px;
-  cursor: pointer;
-}
-
-.filter-option label:hover {
-  color: #007bff;
-}
-/* REMOVE old button styles that we don't need */
-#filter-controls button {
-  display: none; /* Hide the old buttons */
-}
-/* --- New styles for horizontal filters --- */
-#filter-options-wrapper {
-  display: flex;     /* Aligns children in a row */
-  flex-wrap: wrap;   /* Allows them to wrap to the next line if space runs out */
-  margin-top: px;   /* A little space below the title */
-}
-#intersection-options-wrapper {
-  display: flex;     /* Aligns children in a row */
-  flex-wrap: wrap;   /* Allows them to wrap */
-  margin-top: 0px;   
-}/* --- Mobile Responsive Styles --- */
-
-/* This rule applies to any screen 700px wide or less */
-@media (max-width: 700px) {
-
-  /* 1. Stack the main containers */
-  #app-container {
-    flex-direction: column; /* Stack sidebar and map */
-    height: auto; /* Let height be automatic */
-  }
-
-#sidebar {
-    width: 100%;       /* Take full width */
-    height: 40vh;      /* Give sidebar 40% of viewport height */
-    box-sizing: border-box; /* Include padding in the width */
-  }
-
-  /* 3. Give the map a fixed height */
-  #map {
-    width: 100%;  /* Map also full width */
-    height: 60vh; /* Make map 60% of the viewport height */
-  }
   
-  /* 4. Make filter groups stack */
-  #filter-options-wrapper,
-  #intersection-options-wrapper {
-    flex-direction: column; /* Stack checkboxes vertically */
-    align-items: flex-start; /* Align them to the left */
-  }
-  
-  .filter-option {
-    margin-right: 0; /* Remove side margin */
-  }
 }
