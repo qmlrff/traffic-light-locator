@@ -259,10 +259,10 @@ body {
     height: auto; /* Let height be automatic */
   }
 
-  /* 2. Make the sidebar full-width */
-  #sidebar {
+
+#sidebar {
     width: 100%;       /* Take full width */
-    height: auto;      /* Height will be based on content */
+    height: 40vh;      /* Give sidebar 40% of viewport height */
     box-sizing: border-box; /* Include padding in the width */
   }
 
@@ -283,3 +283,4 @@ body {
     margin-right: 0; /* Remove side margin */
   }
 }
+
