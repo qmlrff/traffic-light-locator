@@ -218,14 +218,14 @@ body {
   /* 2. Adjust sidebar for mobile */
   #sidebar {
     width: 100%;       
-    height: 50vh;      /* Sidebar takes top 40% */
+    height: 60vh;      /* Sidebar takes top 40% */
     box-sizing: border-box; 
   }
 
   /* 3. Give the map a fixed height */
   #map {
     width: 100%;  
-    height: 50vh; /* Map takes bottom 60% */
+    height: 40vh; /* Map takes bottom 60% */
   }
   
   /* 4. Make filter groups stack */
@@ -240,4 +240,5 @@ body {
   }
   
 }
+
 
