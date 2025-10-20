@@ -1,0 +1,482 @@
+[
+  {
+"code": "AG 04",
+"description": "Bomba Lama Londang",
+"position": { "lat": 2.3545, "lng": 102.1023889 },
+"category": "SLIP"
+  },
+  {
+"code": "AG 04 (b)",
+"description": "Klinik Kesihatan Masjid Tanah",
+"position": { "lat": 2.355833333, "lng": 102.1013056 },
+"category": "SLIP"
+  },
+  {
+"code": "AG 15",
+"description": "Lebuh AMJ - SAMB - Taman Seri Bayu II (J6)",
+"position": { "lat": 2.382777778, "lng": 102.2170556 },
+"category": "SLIP"
+  },
+  {
+"code": "AG 16 (a)",
+"description": "  Taman Samarinda",
+"position": { "lat": 2.373416667, "lng": 102.2279444 },
+"category": "SLIP"
+  },
+  {
+"code": "AG 17",
+"description": "Lebuh AMJ - Taman Sungai Petai Permai",
+"position": { "lat": 2.36325, "lng": 102.2154444 },
+"category": "SLIP"
+  },
+  {
+"code": "AG 18",
+"description": "Lebuh AMJ - Taman Mutiara (J7)",
+"position": { "lat": 2.372861111, "lng": 102.2168889 },
+"category": "SLIP"
+  },
+  {
+"code": "AG 19",
+"description": "Lebuh AMJ - Sungai Petai (J8)",
+"position": { "lat": 2.355972222, "lng": 102.2103889 },
+"category": "SLIP"
+  },
+  {
+"code": "AG 20",
+"description": "Lebuh AMJ - IKS Zarina (J9)",
+"position": { "lat": 2.33725, "lng": 102.2095833 },
+"category": "SLIP"
+  },
+  {
+"code": "AG 21",
+"description": "Lebuh AMJ - Lendu (J10)",
+"position": { "lat": 2.326972222, "lng": 102.2091389 },
+"category": "SLIP"
+  },
+  {
+"code": "AG 22",
+"description": "Lebuh AMJ - A Famosa (J1)",
+"position": { "lat": 2.436694444, "lng": 102.1845278 },
+"category": "SLIP"
+  },
+  {
+"code": "AG 23",
+"description": "Lebuh AMJ - Kilang Honda (J2)",
+"position": { "lat": 2.416527778, "lng": 102.1935278 },
+"category": "SLIP"
+  },
+  {
+"code": "AG 24",
+"description": "Lebuh AMJ - Air Paabas (J3)",
+"position": { "lat": 2.403972222, "lng": 102.1985556 },
+"category": "SLIP"
+  },
+  {
+"code": "AG 25",
+"description": "Lebuh AMJ - Paya Datuk (J4)",
+"position": { "lat": 2.401222222, "lng": 102.20225 },
+"category": "SLIP"
+  },
+  {
+"code": "AG 26",
+"description": "Lebuh AMJ - Jelatang (J5)",
+"position": { "lat": 2.386055556, "lng": 102.2164722 },
+"category": "SLIP"
+  },
+  {
+"code": "AG 35",
+"description": "Lebuh SPA - Gangsa",
+"position": { "lat": 2.286916667, "lng": 102.2621389 },
+"category": "SLIP"
+  },
+  {
+"code": "AG 36",
+"description": "Lebuh SPA - Trucker",
+"position": { "lat": 2.285555556, "lng": 102.2701389 },
+"category": "SLIP"
+  },
+  {
+"code": "MT 01",
+"description": "  Lebuh AMJ - Taman Paya Rumput Indah.",
+"position": { "lat": 2.301861111, "lng": 102.2152778 },
+"category": "SLIP"
+  },
+  {
+"code": "MT 02",
+"description": "Lebuh AMJ - Rumah Awam Paya Rumput.",
+"position": { "lat": 2.294666667, "lng": 102.2153333 },
+"category": "SLIP"
+  },
+  {
+"code": "MT 03",
+"description": "Lebuh AMJ - Lebuh SPA ( Bawah Jejambat ) ( Bertam  Ulu Bawah Flyover Lebuh SPA / AMJ)",
+"position": { "lat": 2.282388889, "lng": 102.2150833 },
+"category": "SLIP"
+  },
+  {
+"code": "MT 04",
+"description": "Lebuh AMJ - Taman Cheng Perdana(CIMB)",
+"position": { "lat": 2.269944444, "lng": 102.2168889 },
+"category": "SLIP"
+  },
+  {
+"code": "MT 05",
+"description": "Lebuh AMJ -  Jalan Tanjung Minyak",
+"position": { "lat": 2.265638889, "lng": 102.218 },
+"category": "SLIP"
+  },
+  {
+"code": "MT 06",
+"description": "Lebuh AMJ - Jalan Krubong ( Berdekatan Caltex )",
+"position": { "lat": 2.259333333, "lng": 102.2217222 },
+"category": "SLIP"
+  },
+  {
+"code": "MT 07",
+"description": "Lebuh AMJ - Jalan Dato' Seri Hj. Md. Zin ( Berdekatan Stesen Minyak Petron)",
+"position": { "lat": 2.255527778, "lng": 102.2224444 },
+"category": "SLIP"
+  },
+  {
+"code": "MT 08",
+"description": "Lebuh AMJ - Jalan Pulau Gadong ( Jalan Tun Teja - Jalan Ke Pulau Gadong)",
+"position": { "lat": 2.245388889, "lng": 102.2231389 },
+"category": "SLIP"
+  },
+  {
+"code": "MT 10",
+"description": "Lebuh AMJ - Jalan Poh Ah Tiam (Jalan Lorong Pandan-Jalan Malim)",
+"position": { "lat": 2.222861111, "lng": 102.2343056 },
+"category": "SLIP"
+  },
+  {
+"code": "MT 11",
+"description": "Lebuh AMJ - Jalan Bachang (Berdekatan Plaza Wang)",
+"position": { "lat": 2.219833333, "lng": 102.2417778 },
+"category": "SLIP"
+  },
+  {
+"code": "MT 11 (a)",
+"description": "Rumpun Bahagia",
+"position": { "lat": 2.222833333, "lng": 102.2415278 },
+"category": "SLIP"
+  },
+  {
+"code": "MT 12",
+"description": "Lebuh AMJ - Jalan Panglima Awang (Melaka Central/Jalan Tun Razak Bawah Jejantas)",
+"position": { "lat": 2.219388889, "lng": 102.2480278 },
+"category": "SLIP"
+  },
+  {
+"code": "MT 14",
+"description": "Lebuh AMJ - Jalan Durian Daun ( Taman Malinja )",
+"position": { "lat": 2.212666667, "lng": 102.2641111 },
+"category": "SLIP"
+  },
+  {
+"code": "MT 15",
+"description": "Lebuh AMJ - Jalan Bukit Piatu ( Bukit Serindit )",
+"position": { "lat": 2.206055556, "lng": 102.2702778 },
+"category": "SLIP"
+  },
+  {
+"code": "MT 17",
+"description": "Lebuh AMJ - Jalan  Bukit Duyong ( Jalan Bukit Katil - Muar )",
+"position": { "lat": 2.193833333, "lng": 102.28825 },
+"category": "SLIP"
+  },
+  {
+"code": "MT 18",
+"description": "Lebuh AMJ - Kandang ( Jalan Kandang Lama )",
+"position": { "lat": 2.192694444, "lng": 102.2918889 },
+"category": "SLIP"
+  },
+  {
+"code": "MT 19",
+"description": "Lebuh AMJ - Jalan Ayer Molek ( Jalan Bukit Lintang - Jalan Kandang / Ayer Molek )",
+"position": { "lat": 2.18925, "lng": 102.3026667 },
+"category": "SLIP"
+  },
+  {
+"code": "MT 20",
+"description": "Lebuh AMJ - Jalan Paya Dalam ( Bukit Lintang )",
+"position": { "lat": 2.189444444, "lng": 102.3503611 },
+"category": "SLIP"
+  },
+  {
+"code": "MT 21",
+"description": "Lebuh SPA - Sg Udang",
+"position": { "lat": 2.292916667, "lng": 102.1330833 },
+"category": "SLIP"
+  },
+  {
+"code": "MT 22",
+"description": "Lebuh SPA - Penjara Sungai Udang",
+"position": { "lat": 2.289694444, "lng": 102.13975 },
+"category": "SLIP"
+  },
+  {
+"code": "MT 22 (a)",
+"description": "Lebuh SPA - Tapak Pembuangan Sampah",
+"position": { "lat": 2.290972222, "lng": 102.1517222 },
+"category": "SLIP"
+  },
+  {
+"code": "MT 23",
+"description": "Lebuh SPA - Mukim Tanjung Minyak (Taman Seri Bertam)",
+"position": { "lat": 2.292194444, "lng": 102.1696389 },
+"category": "SLIP"
+  },
+  {
+"code": "MT 24",
+"description": "Lebuh SPA - Taman Bertam Impian ",
+"position": { "lat": 2.29175, "lng": 102.1811944 },
+"category": "SLIP"
+  },
+  {
+"code": "MT 25",
+"description": "Lebuh SPA - Taman Bertam Setia",
+"position": { "lat": 2.29225, "lng": 102.1906667 },
+"category": "SLIP"
+  },
+  {
+"code": "MT 26",
+"description": "Lebuh SPA - Taman Paya Emas",
+"position": { "lat": 2.283694444, "lng": 102.2088889 },
+"category": "SLIP"
+  },
+  {
+"code": "MT 27",
+"description": "Lebuh SPA - Stadium Hang Jebat",
+"position": { "lat": 2.286611111, "lng": 102.2311389 },
+"category": "SLIP"
+  },
+  {
+"code": "MT 28",
+"description": "Lebuh SPA - Jalan Krubong",
+"position": { "lat": 2.288222222, "lng": 102.2424444 },
+"category": "SLIP"
+  },
+  {
+"code": "T 02",
+"description": "Padang Jambu /  Pengkalan Batu ",
+"position": { "lat": 2.22825, "lng": 102.2699722 },
+"category": "SLIP"
+  },
+  {
+"code": "T 03",
+"description": "Bukit  Sebukur /   Air Terjun ",
+"position": { "lat": 2.230305556, "lng": 102.2775278 },
+"category": "SLIP"
+  },
+  {
+"code": "T 04",
+"description": "Bukit Beruang  / Gong / MBMB",
+"position": { "lat": 2.231333333, "lng": 102.2795833 },
+"category": "SLIP"
+  },
+  {
+"code": "T 05",
+"description": "Taman Merbok / Melaka Mall",
+"position": { "lat": 2.233138889, "lng": 102.2829722 },
+"category": "SLIP"
+  },
+  {
+"code": "T 06",
+"description": "Hospital Pantai / Hotel King",
+"position": { "lat": 2.237777778, "lng": 102.2882222 },
+"category": "SLIP"
+  },
+  {
+"code": "T 07",
+"description": "Sekolah MOZAC / Orna Steel",
+"position": { "lat": 2.243666667, "lng": 102.2908889 },
+"category": "SLIP"
+  },
+  {
+"code": "T 08",
+"description": "Perindustrian Ayer Keroh / Ayer Keroh Height",
+"position": { "lat": 2.252083333, "lng": 102.2916389 },
+"category": "SLIP"
+  },
+  {
+"code": "T 09",
+"description": "Persimpangan MITC",
+"position": { "lat": 2.270055556, "lng": 102.2943333 },
+"category": "SLIP"
+  },
+  {
+"code": "T 28",
+"description": "Persimpangan IPK",
+"position": { "lat": 2.2575, "lng": 102.2784167 },
+"category": "SLIP"
+  },
+  {
+"code": "T 29",
+"description": "Taman Bukit Beruang Utama",
+"position": { "lat": 2.252888889, "lng": 102.2761944 },
+"category": "SLIP"
+  },
+  {
+"code": "T 30",
+"description": "Regal Park / Bukit Beruang",
+"position": { "lat": 2.248805556, "lng": 102.2740278 },
+"category": "SLIP"
+  },
+  {
+"code": "T 31",
+"description": "Taman Kerjasama",
+"position": { "lat": 2.247166667, "lng": 102.27475 },
+"category": "SLIP"
+  },
+  {
+"code": "T 32",
+"description": "Taman Bunga Raya",
+"position": { "lat": 2.243777778, "lng": 102.2775278 },
+"category": "SLIP"
+  },
+  {
+"code": "T 33",
+"description": "Masjid Bukit Beruang / SK Bukit Beruang",
+"position": { "lat": 2.23925, "lng": 102.2788611 },
+"category": "SLIP"
+  },
+  {
+"code": "T 41",
+"description": "Jalan Tun Hamzah / Jalan Gapam",
+"position": { "lat": 2.265305556, "lng": 102.3043611 },
+"category": "SLIP"
+  },
+  {
+"code": "JS 023",
+"description": "Persimpangan SRJKC Bemban",
+"position": { "lat": 2.269444444, "lng": 102.3764167 },
+"category": "SLIP"
+  },
+  {
+"code": "AG 33 (a)",
+"description": "Taman Murai Jaya",
+"position": { "lat": 2.313111111, "lng": 102.28675 },
+"category": "SLIP"
+  },
+  {
+"code": "AG 33 (b)",
+"description": "Taman Murai Jaya",
+"position": { "lat": 2.317027778, "lng": 102.2841944 },
+"category": "SLIP"
+  },
+  {
+"code": "AG 01",
+"description": "Solok Duku ke Masjid Tanah",
+"position": { "lat": 2.3345402, "lng": 102.1182249 },
+"category": "Alor Gajah"
+  },
+  {
+"code": "AG 02",
+"description": "Petronas Masjid Tanah",
+"position": { "lat": 2.346762178, "lng": 102.1107124 },
+"category": "Alor Gajah"
+  },
+  {
+"code": "AG 03",
+"description": "Pekan Masjid Tanah",
+"position": { "lat": 2.351940498, "lng": 102.10819 },
+"category": "Alor Gajah"
+  },
+  {
+"code": "T 08 (a)",
+"description": "Kota Fesyen (Tun Fatimah)",
+"position": { "lat": 2.267592123, "lng": 102.2915341 },
+"category": "Melaka Tengah"
+  },
+  {
+"code": "T 10",
+"description": "Taman Botanical / Hutan Reakrasi",
+"position": { "lat": 2.279001464, "lng": 102.2998494 },
+"category": "Melaka Tengah"
+  },
+  {
+"code": "T 11",
+"description": "Persimpangan SIRIM",
+"position": { "lat": 2.228901088, "lng": 102.2618172 },
+"category": "Melaka Tengah"
+  },
+  {
+"code": "T 12",
+"description": "FTZ Batu Berendam / Kilang TEAC",
+"position": { "lat": 2.227579407, "lng": 102.2579186 },
+"category": "Melaka Tengah"
+  },
+  {
+"code": "T 13",
+"description": "Giant / Kamdar",
+"position": { "lat": 2.228214577, "lng": 102.2543731 },
+"category": "Melaka Tengah"
+  },
+  {
+"code": "T 14",
+"description": "Bachang ke Melaka Sentral",
+"position": { "lat": 2.231917169, "lng": 102.2499742 },
+"category": "Melaka Tengah"
+  },
+  {
+"code": "T 15 ",
+"description": "Persimpangan KIPMART",
+"position": { "lat": 2.236008724, "lng": 102.2477349 },
+"category": "Melaka Tengah"
+  },
+  {
+"code": "T 16",
+"description": "Bachang / Malim",
+"position": { "lat": 2.240312327, "lng": 102.2451399 },
+"category": "Melaka Tengah"
+  },
+  {
+"code": "T 17",
+"description": "Persimpangan Bulatan Malim",
+"position": { "lat": 2.243656441, "lng": 102.2367693 },
+"category": "Melaka Tengah"
+  },
+  {
+"code": "T 18",
+"description": "Persimpangan Merdeka Permai",
+"position": { "lat": 2.248302604, "lng": 102.2401989 },
+"category": "Melaka Tengah"
+  },
+  {
+"code": "T 19",
+"description": "Pengkalan Batu / SMK Sultan Muhammad",
+"position": { "lat": 2.235439079, "lng": 102.2616389 },
+"category": "Melaka Tengah"
+  },
+  {
+"code": "T 20",
+"description": "Taman Melaka Baru",
+"position": { "lat": 2.239859672, "lng": 102.2592349 },
+"category": "Melaka Tengah"
+  },
+  {
+"code": "T 21",
+"description": "Kilang Biskut / Batu Berendam",
+"position": { "lat": 2.249703691, "lng": 102.2527355 },
+"category": "Melaka Tengah"
+  },
+  {
+"code": "T 22",
+"description": "Dominos Pizza / Taman Merdeka Permai",
+"position": { "lat": 2.254190972, "lng": 102.2420985 },
+"category": "Melaka Tengah"
+  },
+  {
+"code": "T 23",
+"description": "Taman Merdeka / Pasar Borong",
+"position": { "lat": 2.255615928, "lng": 102.2382929 },
+"category": "Melaka Tengah"
+  },
+  {
+"code": "JS 009 (b)",
+"description": "Pondok Polis Serkam",
+"position": { "lat": 2.142622189, "lng": 102.3847041 },
+"category": "Jasin"
+  }
+]

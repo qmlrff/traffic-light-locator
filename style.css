@@ -1,0 +1,250 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+body {
+  font-family: 'Inter', sans-serif;
+  margin: 0; 
+}
+
+/* Style the main container that holds everything. */
+#app-container {
+  display: flex; /* Arrange child elements (sidebar and map) in a row. */
+  height: 100vh; /* Make the container take up the full height of the browser viewport. */
+}
+
+/* Style the sidebar. */
+/* Style the sidebar. */
+#sidebar {
+  width: 340px;
+  padding: 10px;
+  background-color: #ffffff;
+  display: flex;          /* <-- ADD THIS */
+  flex-direction: column; /* <-- ADD THIS */
+  /* overflow-y: auto; (This line should be removed) */
+}
+
+#sidebar h2 {
+  /* --- To change SIZE --- */
+  font-size: 22px; /* Default is larger; 20px is smaller */
+
+  /* --- To change POSITION (Alignment) --- */
+  text-align: center; /* Options: 'left', 'right', 'center' */
+
+  /* --- To change POSITION (Spacing) --- */
+  margin-top: 0px;    /* Space above the title */
+  margin-bottom: 10px; /* Space below the title */
+}
+#sidebar h2 .title-icon {
+    width: 22px;  /* Adjust width as needed */
+    height: 22px; /* Adjust height as needed */
+    vertical-align: middle; /* Helps align the image with the text */
+}
+/* --- Global Search (Top) --- */
+#global-search-container {
+  position: relative; /* This lets us position the button inside */
+}
+
+/* Style for the global search box */
+#global-search-box {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  border: 1px solid #696969;
+  border-radius: 50px;
+  font-size: 14px;
+   
+}
+
+/* Style for the clear button */
+#clear-search-btn {
+  position: absolute; /* Position it *inside* the container */
+  right: 5px;
+  top: 40%;
+  transform: translateY(-50%); /* Vertical centering */
+  width: 25px;
+  height: 25px;
+  padding: 0;
+  font-weight: normal;
+  font-size: 16px;
+  color: #999;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+#clear-search-btn:hover {
+  color: #333;
+}
+
+/* --- Filter Search (Traffic Lights) --- */
+#filter-search-container {
+  position: relative;
+  margin-bottom: 10px;
+}
+
+/* Style the filter search input box */
+#search-box {
+  width: 100%;
+  padding: 12px; /* Made the box taller */
+  box-sizing: border-box;
+  border: 1px solid #696969;
+  border-radius: 50px; /* Google's style */
+  padding-right: 35px; 
+  margin-bottom: 0; 
+  font-size: 14px; /* Text size in the box */
+}
+
+/* New style for the filter clear button */
+#clear-filter-btn {
+  position: absolute;
+  right: 5px;
+  top: 53%;
+  transform: translateY(-50%);
+  width: 25px;
+  height: 25px;
+  padding: 0;
+  font-weight: normal;
+  font-size: 16px;
+  color: #999;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+#clear-filter-btn:hover {
+  color: #333;
+}
+
+/* --- "Find My Location" Button --- */
+#find-me-btn {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+#find-me-btn:hover {
+  background-color: #0056b3;
+}
+
+/* --- Filter Buttons --- */
+#filter-controls {
+  margin-bottom: 0px;
+  padding-bottom: 10px;
+
+  border-bottom: 1px solid #ddd;
+}
+
+#filter-controls strong {
+  display: inline-block; 
+  margin-bottom: 8px; 
+}
+
+/* Style the buttons themselves */
+#filter-controls button {
+  padding: 5px  10px;
+  border: 1px solid #696969;
+  background-color: #ffffff;
+  cursor: pointer;
+      border-radius: 50px;
+  margin-right: 5px;
+}
+
+/* Style for when a button is hovered over */
+#filter-controls button:hover {
+  background-color: #ddd;
+}
+
+/* Style for the *active* filter button */
+#filter-controls button.active-filter {
+  background-color: #007bff;
+  color: white;
+  font-weight: bold;
+}
+/* Add this rule to remove the default padding */
+#traffic-light-list {
+  padding-left: 0;
+  flex-grow: 1;       /* <-- ADD THIS */
+  overflow-y: auto;   /* <-- ADD THIS */
+  min-height: 0;      /* <-- ADD THIS */
+}
+/* --- Traffic Light List --- */
+#traffic-light-list li {
+  padding: 8px;
+  cursor: pointer;
+  border-radius: 10px;
+  font-size: 15px;
+  list-style-type: none;
+}
+
+/* Style for when a list item is hovered over */
+#traffic-light-list li:hover {
+  background-color: #ddd;
+}
+
+/* This is the new style for the *selected* item */
+#traffic-light-list li.active-list-item {
+  background-color: #cedbfd;
+  font-weight: normal;
+  color: #005c99;
+}
+
+/* --- Map Container --- */
+#map {
+  flex-grow: 1; /* This tells the map to grow and fill all available space. */
+  height: 100%; /* This tells the map to be 100% tall. */
+}
+/* --- New Filter Checkbox Styles --- */
+#filter-controls {
+  margin-bottom: 10px; /* Reduced margin */
+  padding-bottom: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+#filter-controls strong {
+  display: inline-block; 
+  margin-bottom: 8px; 
+}
+
+.filter-option {
+  margin-bottom: 5px; 
+  display: flex;
+  align-items: center;
+  margin-right: 15px; /* Adds space between filters */
+}
+
+.filter-option input[type="checkbox"] {
+  margin-right: 8px; /* Space between checkbox and label */
+  /* Make the checkbox slightly larger */
+  width: 16px;
+  height: 16px;
+}
+
+.filter-option label {
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.filter-option label:hover {
+  color: #007bff;
+}
+/* REMOVE old button styles that we don't need */
+#filter-controls button {
+  display: none; /* Hide the old buttons */
+}
+/* --- New styles for horizontal filters --- */
+#filter-options-wrapper {
+  display: flex;     /* Aligns children in a row */
+  flex-wrap: wrap;   /* Allows them to wrap to the next line if space runs out */
+  margin-top: px;   /* A little space below the title */
+}
+#intersection-options-wrapper {
+  display: flex;     /* Aligns children in a row */
+  flex-wrap: wrap;   /* Allows them to wrap */
+  margin-top: 0px;   
+}

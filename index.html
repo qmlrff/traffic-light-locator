@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Traffic Light Locator</title>
+    <link rel="icon" type="image/png" href="favicon.png">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+</head>
+<body>
+
+    <div id="app-container">
+
+        <div id="sidebar">
+            <h2>
+    <img src="icon.png" alt="Traffic Light Icon" class="title-icon"> <span>Traffic Lights Locator</span>
+</h2>
+
+            <div id="global-search-container">
+                <input type="text" id="global-search-box" placeholder="Search any place or address...">
+                <button id="clear-search-btn">X</button>
+            </div>
+
+            <div id="filter-search-container">
+                <input type="text" id="search-box" placeholder="Search traffic light code or description...">
+                <button id="clear-filter-btn">X</button>
+            </div>
+            
+            <button id="find-me-btn">Find My Location</button>
+
+   <div id="filter-controls">
+                <strong>Filter by Category:</strong>
+                
+                <div id="filter-options-wrapper">
+                    <div class="filter-option">
+                      <input type="checkbox" id="filter-slip" value="SLIP">
+                      <label for="filter-slip">SLIP</label>
+                    </div>
+                    <div class="filter-option">
+                      <input type="checkbox" id="filter-ag" value="Alor Gajah">
+                      <label for="filter-ag">Alor Gajah</label>
+                    </div>
+                    <div class="filter-option">
+                      <input type="checkbox" id="filter-mt" value="Melaka Tengah">
+                      <label for="filter-mt">Melaka Tengah</label>
+                    </div>
+                    <div class="filter-option">
+                      <input type="checkbox" id="filter-jasin" value="Jasin">
+                      <label for="filter-jasin">Jasin</label>
+                    </div>
+                </div>
+
+                <strong style="margin-top: 10px; display: block;">Filter by Type:</strong>
+                <div id="intersection-options-wrapper">
+                    <div class="filter-option">
+                        <input type="checkbox" id="filter-3way" value="3 way">
+                        <label for="filter-3way">3 Way</label>
+                    </div>
+                    <div class="filter-option">
+                        <input type="checkbox" id="filter-4way" value="4 way">
+                        <label for="filter-4way">4 Way</label>
+                    </div>
+                    <div class="filter-option">
+                        <input type="checkbox" id="filter-ped" value="Pedestrian">
+                        <label for="filter-ped">Pedestrian</label>
+                    </div>
+                </div>
+                </div>
+
+            <ul id="traffic-light-list"></ul>
+        </div>
+
+        <div id="map"></div>
+
+    </div>
+
+    <script src="script.js" defer></script>
+    <script defer
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBEAHtp9LFNut55nB_ZIlepgXzXPVklJ7Y&callback=initMap&v=weekly&libraries=places,marker,geometry&loading=async">
+    </script>
+
+</body>
+</html>
