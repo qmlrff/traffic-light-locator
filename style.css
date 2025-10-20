@@ -247,4 +247,39 @@ body {
   display: flex;     /* Aligns children in a row */
   flex-wrap: wrap;   /* Allows them to wrap */
   margin-top: 0px;   
+
+}/* --- Mobile Responsive Styles --- */
+
+/* This rule applies to any screen 700px wide or less */
+@media (max-width: 700px) {
+
+  /* 1. Stack the main containers */
+  #app-container {
+    flex-direction: column; /* Stack sidebar and map */
+    height: auto; /* Let height be automatic */
+  }
+
+  /* 2. Make the sidebar full-width */
+  #sidebar {
+    width: 100%;       /* Take full width */
+    height: auto;      /* Height will be based on content */
+    box-sizing: border-box; /* Include padding in the width */
+  }
+
+  /* 3. Give the map a fixed height */
+  #map {
+    width: 100%;  /* Map also full width */
+    height: 60vh; /* Make map 60% of the viewport height */
+  }
+  
+  /* 4. Make filter groups stack */
+  #filter-options-wrapper,
+  #intersection-options-wrapper {
+    flex-direction: column; /* Stack checkboxes vertically */
+    align-items: flex-start; /* Align them to the left */
+  }
+  
+  .filter-option {
+    margin-right: 0; /* Remove side margin */
+  }
 }
