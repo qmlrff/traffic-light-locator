@@ -300,7 +300,7 @@ function initMap() {
           // --- Highlight the corresponding list item ---
           allListItems.forEach(item => item.classList.remove("active-list-item"));
           listItem.classList.add("active-list-item");
-          listItem.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+          listItem.scrollIntoView({ behavior: 'smooth', block: 'start' });
         });
 
         // --- List Item Click Listener ---
@@ -362,3 +362,4 @@ function initMap() {
     });
 
 } // End of initMap function
+
