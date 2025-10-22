@@ -406,7 +406,7 @@
 "intersectionType": "3 way"
   },
   {
-"code": "JS 023",
+"code": "JS 23",
 "description": "Persimpangan SRJKC Bemban",
 "position": { "lat": 2.2694444, "lng": 102.3764167 },
 "category": "SLIP",
@@ -429,14 +429,14 @@
   {
 "code": "T 01",
 "description": "Persimpangan Tun Ghaffar",
-"position": { "lat": 2.2675278, "lng": 102.2915556 },
+"position": { "lat": 0, "lng": 0 },
 "category": "Melaka Tengah",
 "intersectionType": "4 way"
   },
   {
 "code": "T 08 (a)",
 "description": "Kota Fesyen (Tun Fatimah)",
-"position": { "lat": 2.2788889, "lng": 102.2998333 },
+"position": { "lat": 0, "lng": 0 },
 "category": "Melaka Tengah",
 "intersectionType": "3 way"
   },
@@ -1582,63 +1582,63 @@
 "intersectionType": "3 way"
   },
   {
-"code": "AG PED 01",
+"code": "AG PED 1",
 "description": "SK Lubuk Redan",
 "position": { "lat": 2.374609, "lng": 102.068237 },
 "category": "Alor Gajah",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "AG PED 02",
+"code": "AG PED 2",
 "description": "SMK Rahmat, Kuala Sungai Baru",
 "position": { "lat": 2.366392, "lng": 102.051603 },
 "category": "Alor Gajah",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "AG PED 03",
+"code": "AG PED 3",
 "description": "SJKC Yok Sin, Kuala Sungai Baru",
 "position": { "lat": 2.361356, "lng": 102.038032 },
 "category": "Alor Gajah",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "AG PED 04",
+"code": "AG PED 4",
 "description": "Petronas Alor Gajah",
 "position": { "lat": 2.383266, "lng": 102.21227 },
 "category": "Alor Gajah",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "AG PED 05",
+"code": "AG PED 5",
 "description": "KFC Alor Gajah",
 "position": { "lat": 2.380756, "lng": 102.209515 },
 "category": "Alor Gajah",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "AG PED 06",
+"code": "AG PED 6",
 "description": "SMK Dol Said",
 "position": { "lat": 2.374544, "lng": 102.208173 },
 "category": "Alor Gajah",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "AG PED 07",
+"code": "AG PED 7",
 "description": "Machap Baru",
 "position": { "lat": 2.379718, "lng": 102.328405 },
 "category": "Alor Gajah",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "AG PED 08",
+"code": "AG PED 8",
 "description": "SK Ganun",
 "position": { "lat": 2.409857, "lng": 102.240124 },
 "category": "Alor Gajah",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "AG PED 09",
+"code": "AG PED 9",
 "description": "SMK Durian Tunggal",
 "position": { "lat": 2.308808, "lng": 102.276208 },
 "category": "Alor Gajah",
@@ -1764,497 +1764,497 @@
 "intersectionType": "4 way"
   },
   {
-"code": "JS 001",
+"code": "JS 01",
 "description": "Kesang Tua",
 "position": { "lat": 0, "lng": 0 },
 "category": "Jasin",
 "intersectionType": "3 way"
   },
   {
-"code": "JS 002",
+"code": "JS 02",
 "description": "Bandar Bestari 1 ",
 "position": { "lat": 0, "lng": 0 },
 "category": "Jasin",
 "intersectionType": "3 way"
   },
   {
-"code": "JS 003",
+"code": "JS 03",
 "description": "Bandar Bistari 2",
 "position": { "lat": 0, "lng": 0 },
 "category": "Jasin",
 "intersectionType": "4 way"
   },
   {
-"code": "JS 003 (a)",
+"code": "JS 03 (a)",
 "description": "Taman Merbau (Flat polis)",
 "position": { "lat": 2.289351, "lng": 102.406403 },
 "category": "Jasin",
 "intersectionType": " 3 way "
   },
   {
-"code": "JS 004",
+"code": "JS 04",
 "description": "Jalan Jasin / Taman Maju",
 "position": { "lat": 2.297697, "lng": 102.416733 },
 "category": "Jasin",
 "intersectionType": "4 way"
   },
   {
-"code": "JS 004 (a)",
+"code": "JS 04 (a)",
 "description": "Lipat Kajang ",
 "position": { "lat": 2.276244, "lng": 102.440922 },
 "category": "Jasin",
 "intersectionType": " 3 way "
   },
   {
-"code": "JS 005",
+"code": "JS 05",
 "description": "Ayer Baruk kesang Luar / Kelubi",
 "position": { "lat": 2.317113, "lng": 102.407653 },
 "category": "Jasin",
 "intersectionType": "4 way"
   },
   {
-"code": "JS 006",
+"code": "JS 06",
 "description": "Jalan Taman Bahagia Jasin",
 "position": { "lat": 2.304059, "lng": 102.425641 },
 "category": "Jasin",
 "intersectionType": "4 way"
   },
   {
-"code": "JS 007",
+"code": "JS 07",
 "description": "Jalan Jasin Hilir IKM",
 "position": { "lat": 2.304413, "lng": 102.440017 },
 "category": "Jasin",
 "intersectionType": "4 way"
   },
   {
-"code": "JS 007 (a)",
+"code": "JS 07 (a)",
 "description": "Seri Mendapat-Uitm Jasin / Semujuk",
 "position": { "lat": 2.225377, "lng": 102.444089 },
 "category": "Jasin",
 "intersectionType": " 3 way "
   },
   {
-"code": "JS 008",
+"code": "JS 08",
 "description": "Jalan Jasin / Taman Rim Baru",
 "position": { "lat": 2.311478, "lng": 102.446894 },
 "category": "Jasin",
 "intersectionType": "4 way"
   },
   {
-"code": "JS 009",
+"code": "JS 09",
 "description": "Lebuh AMJ / Serkam / Bemban",
 "position": { "lat": 2.184665, "lng": 102.393132 },
 "category": "Jasin",
 "intersectionType": "4 way"
   },
   {
-"code": "JS 009 (a)",
+"code": "JS 09 (a)",
 "description": "Bukit Tembakau",
 "position": { "lat": 2.160787, "lng": 102.339378 },
 "category": "Jasin",
 "intersectionType": "3 way"
   },
   {
-"code": "JS 009 (b)",
+"code": "JS 09 (b)",
 "description": "Pondok Polis Serkam",
 "position": { "lat": 2.142546, "lng": 102.384721 },
 "category": "Jasin",
 "intersectionType": "4 way"
   },
   {
-"code": "JS 010",
+"code": "JS 10",
 "description": "Jalan Lebuh AMJ / Jasin / Bandar Merlimau",
 "position": { "lat": 2.179265, "lng": 102.437129 },
 "category": "Jasin",
 "intersectionType": "4 way"
   },
   {
-"code": "JS 011",
+"code": "JS 11",
 "description": "Lebuh AMJ / Batu Gajah",
 "position": { "lat": 2.148891, "lng": 102.469113 },
 "category": "Jasin",
 "intersectionType": "4 way"
   },
   {
-"code": "JS 012",
+"code": "JS 12",
 "description": "Jalan Lebuh AMJ / Parit Putat",
 "position": { "lat": 2.13429, "lng": 102.492194 },
 "category": "Jasin",
 "intersectionType": "4 way"
   },
   {
-"code": "JS 013",
+"code": "JS 13",
 "description": "Jalan Lebuh AMJ / Tambak Merah / Parit Perawas",
 "position": { "lat": 2.130766, "lng": 102.500571 },
 "category": "Jasin",
 "intersectionType": "4 way"
   },
   {
-"code": "JS 014",
+"code": "JS 14",
 "description": "Jalan Utama Pekan Sg. Rambai / Parit Putat",
 "position": { "lat": 2.124684, "lng": 102.493614 },
 "category": "Jasin",
 "intersectionType": "4 way"
   },
   {
-"code": "JS 015",
+"code": "JS 15",
 "description": "Jalan Utama Pekan Sg. Rambai / Tambak Merah",
 "position": { "lat": 2.124743, "lng": 102.495941 },
 "category": "Jasin",
 "intersectionType": "4 way"
   },
   {
-"code": "JS 016",
+"code": "JS 16",
 "description": "Jalan Utama Bandar Merlimau / Politeknik",
 "position": { "lat": 2.167121, "lng": 102.430675 },
 "category": "Jasin",
 "intersectionType": "4 way"
   },
   {
-"code": "JS 017",
+"code": "JS 17",
 "description": "Jalan Utama Bandar Baru Merlimau Utara",
 "position": { "lat": 2.163655, "lng": 102.42999 },
 "category": "Jasin",
 "intersectionType": "4 way"
   },
   {
-"code": "JS 018",
+"code": "JS 18",
 "description": "Jalan Utama Merlimau Industri / Kilang Berapi",
 "position": { "lat": 2.156049, "lng": 102.427223 },
 "category": "Jasin",
 "intersectionType": "4 way"
   },
   {
-"code": "JS 019",
+"code": "JS 19",
 "description": "Bandar Merlimau",
 "position": { "lat": 2.146224, "lng": 102.425587 },
 "category": "Jasin",
 "intersectionType": "4 way"
   },
   {
-"code": "JS 020",
+"code": "JS 20",
 "description": "Jalan Muar / Melaka / Jalan Ke Merlimau Industri",
 "position": { "lat": 2.146107, "lng": 102.420401 },
 "category": "Jasin",
 "intersectionType": "3 way"
   },
   {
-"code": "JS 021",
+"code": "JS 21",
 "description": "Jalan Muar / Melaka / Bandar Merlimau",
 "position": { "lat": 2.142922, "lng": 102.424732 },
 "category": "Jasin",
 "intersectionType": "3 way"
   },
   {
-"code": "JS 022",
+"code": "JS 22",
 "description": "Jalan Gapam / Perkampungan Orang Asli",
 "position": { "lat": 2.275394, "lng": 102.331291 },
 "category": "Jasin",
 "intersectionType": "3 way"
   },
   {
-"code": "JS 022 (a)",
+"code": "JS 22 (a)",
 "description": "Anjung Gapam",
 "position": { "lat": 2.274927, "lng": 102.361899 },
 "category": "Jasin",
 "intersectionType": "3 way"
   },
   {
-"code": "JS 024",
+"code": "JS 24",
 "description": "Pekan Bemban Pejabat Pos",
 "position": { "lat": 2.266209, "lng": 102.377247 },
 "category": "Jasin",
 "intersectionType": "3 way"
   },
   {
-"code": "JS 025",
+"code": "JS 25",
 "description": "Lipat Kajang (Berdekatan Kilang Kaca)",
 "position": { "lat": 2.25362, "lng": 102.419322 },
 "category": "Jasin",
 "intersectionType": "3 way"
   },
   {
-"code": "JS 026 ",
+"code": "JS 26 ",
 "description": "PPR Tehel ",
 "position": { "lat": 2.243842, "lng": 102.322823 },
 "category": "Jasin",
 "intersectionType": "3 way"
   },
   {
-"code": "JS 027",
+"code": "JS 27",
 "description": "Taman Tehel Impian",
 "position": { "lat": 2.245017, "lng": 102.326096 },
 "category": "Jasin",
 "intersectionType": "4 way"
   },
   {
-"code": "JS PED 001",
+"code": "JS PED 01",
 "description": "SK Tun Perak",
 "position": { "lat": 0, "lng": 0 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "JS PED 002",
+"code": "JS PED 02",
 "description": "Masjid Lama Jasin / MPJ",
 "position": { "lat": 2.308931, "lng": 102.430362 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "JS PED 003",
+"code": "JS PED 03",
 "description": "Jalan Bandar Jasin",
 "position": { "lat": 0, "lng": 0 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "JS PED 004",
+"code": "JS PED 04",
 "description": "SMK Simpang Bekoh Nyalas",
 "position": { "lat": 2.359643, "lng": 102.512151 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "JS PED 005",
+"code": "JS PED 05",
 "description": "SJKC Chao Chee Selandar",
 "position": { "lat": 2.38921, "lng": 102.379388 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "JS PED 006",
+"code": "JS PED 06",
 "description": "SMK Selandar",
 "position": { "lat": 2.38837, "lng": 102.374878 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "JS PED 007",
+"code": "JS PED 07",
 "description": "SK Selandar",
 "position": { "lat": 2.376205, "lng": 102.371869 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "JS PED 008",
+"code": "JS PED 08",
 "description": "SK Batang Melaka",
 "position": { "lat": 2.470512, "lng": 102.412435 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "JS PED 009",
+"code": "JS PED 09",
 "description": "SK Terentang",
 "position": { "lat": 2.289408, "lng": 102.4597 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "JS PED 010",
+"code": "JS PED 10",
 "description": "SK Batu Gajah, Merlimau",
 "position": { "lat": 2.154419, "lng": 102.475088 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "JS PED 011",
+"code": "JS PED 11",
 "description": "Sebatu, Merlimau",
 "position": { "lat": 2.123224, "lng": 102.468635 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "JS PED 012",
+"code": "JS PED 12",
 "description": "SMK Dang Anum, Merlimau",
 "position": { "lat": 2.158524, "lng": 102.427321 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "JS PED 012 (a)",
+"code": "JS PED 12 (a)",
 "description": "SK Merlimau 1",
 "position": { "lat": 2.146398, "lng": 102.427196 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "JS PED 012 (b)",
+"code": "JS PED 12 (b)",
 "description": "SK Merlimau 2",
 "position": { "lat": 2.16199, "lng": 102.429531 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "JS PED 013",
+"code": "JS PED 13",
 "description": "SK Sempang, Merlimau",
 "position": { "lat": 2.144956, "lng": 102.407118 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "JS PED 014",
+"code": "JS PED 14",
 "description": "SK Tedong Merlimau",
 "position": { "lat": 2.144309, "lng": 102.395547 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "JS PED 015",
+"code": "JS PED 15",
 "description": "SK Serkam Darat",
 "position": { "lat": 2.151075, "lng": 102.388597 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "JS PED 015 (a)",
+"code": "JS PED 15 (a)",
 "description": "SK Serkam ",
 "position": { "lat": 2.138677, "lng": 102.382118 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "JS PED 016",
+"code": "JS PED 16",
 "description": "SK Pulai",
 "position": { "lat": 2.144656, "lng": 102.369665 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "JS PED 017",
+"code": "JS PED 17",
 "description": "SK Datuk Hj. Baginda, Pulai",
 "position": { "lat": 2.153621, "lng": 102.350085 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "JS PED 018",
+"code": "JS PED 18",
 "description": "Masjid Umbai",
 "position": { "lat": 2.155219, "lng": 102.347418 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "JS PED 019",
+"code": "JS PED 19",
 "description": "SK Bukit Tembakau",
 "position": { "lat": 2.16875, "lng": 102.343215 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "JS PED 020",
+"code": "JS PED 20",
 "description": "SMK Keb. Sri Mahkota Pulai",
 "position": { "lat": 2.145129, "lng": 102.365552 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "JS PED 021",
+"code": "JS PED 21",
 "description": "SK Seri Bemban ",
 "position": { "lat": 2.269569, "lng": 102.374402 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "JS PED 022",
+"code": "JS PED 22",
 "description": "SMK Seri Bemban",
 "position": { "lat": 2.272405, "lng": 102.376998 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "JS PED 023",
+"code": "JS PED 23",
 "description": "SK Kesang Tua",
 "position": { "lat": 2.31672, "lng": 102.397801 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "JS PED 024",
+"code": "JS PED 24",
 "description": "SK Sungai Rambai",
 "position": { "lat": 2.12427, "lng": 102.486635 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "JS PED 025",
+"code": "JS PED 25",
 "description": "SK Sri Lanang (Kelubi)",
 "position": { "lat": 2.316458, "lng": 102.425701 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "JS PED 026",
+"code": "JS PED 26",
 "description": "SK Chabau",
 "position": { "lat": 2.346793, "lng": 102.507622 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "JS PED 027",
+"code": "JS PED 27",
 "description": "SK Nyalas",
 "position": { "lat": 2.434764, "lng": 102.472665 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "JS PED 028",
+"code": "JS PED 28",
 "description": "SRA JAIM Simpang Kerayong",
 "position": { "lat": 2.296684, "lng": 102.443925 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "JS PED 029",
+"code": "JS PED 29",
 "description": "SK Ayer Baruk",
 "position": { "lat": 2.307446, "lng": 102.42729 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "JS PED 030",
+"code": "JS PED 30",
 "description": "SMK Tun Syed Zahiruddin ",
 "position": { "lat": 2.130993, "lng": 102.446488 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "JS PED 031",
+"code": "JS PED 31",
 "description": "SK Asahan ",
 "position": { "lat": 2.392771, "lng": 102.545529 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "JS PED 032",
+"code": "JS PED 32",
 "description": "SRA JAIM Rim",
 "position": { "lat": 2.3112259, "lng": 102.441771 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "JS PED 033",
+"code": "JS PED 33",
 "description": "KV Datuk Abu Zahar",
 "position": { "lat": 2.323111, "lng": 102.409935 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "JS PED 034",
+"code": "JS PED 34",
 "description": "SJKT Ladang Bukit Kajang",
 "position": { "lat": 2.239164, "lng": 102.366767 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "JS PED 035",
+"code": "JS PED 35",
 "description": "SRA Chin Chin",
 "position": { "lat": 2.29274, "lng": 102.480422 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "JS 002 (a)",
+"code": "JS 02 (a)",
 "description": " Kampung Ayer Merbau ",
 "position": { "lat": 0, "lng": 0 },
 "category": "Jasin",
