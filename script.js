@@ -134,38 +134,8 @@ function initMap() {
               });
               
               map.panTo(userLocation);
-              map.setZoom(16);
+              map.setZoom(15);
               
-              // --- Find Nearest Logic ---
-              let shortestDistance = Infinity; // Start with an impossibly large distance
-              let closestMarker = null;
-
-              allMarkers.forEach(marker => {
-                // IMPORTANT: We only check markers that are currently visible on the map
-                if (marker.map) { 
-                  // Calculate distance
-                  const distance = google.maps.geometry.spherical.computeDistanceBetween(
-                    userLocation,   // The user's position
-                    marker.position // This marker's position
-                  );
-                  
-                  // If this marker is closer than the last one we found...
-                  if (distance < shortestDistance) {
-                    shortestDistance = distance; // ...save its distance
-                    closestMarker = marker;    // ...and save the marker itself
-                  }
-                }
-              });
-
-              // After checking all markers, see if we found one
-              if (closestMarker) {
-                // Found one!
-                const distanceInKm = (shortestDistance / 1000).toFixed(2);
-                // (Note: The original code had an empty 'if' block here)
-              } else {
-                alert("No traffic lights found matching your current filters.");
-              }
-              // --- End of Find Nearest Logic ---
             },
             () => { 
               // This runs if geolocation fails or is denied
@@ -330,6 +300,7 @@ function initMap() {
           // --- Highlight the corresponding list item ---
           allListItems.forEach(item => item.classList.remove("active-list-item"));
           listItem.classList.add("active-list-item");
+          listItem.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
         });
 
         // --- List Item Click Listener ---
