@@ -1,36 +1,56 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
 
+/* =================================
+   1. GLOBAL & BASE STYLES
+   ================================= */
+
 body {
   font-family: 'Inter', sans-serif;
-  margin: 0; 
+  margin: 0;
 }
 
-/* Style the main container that holds everything. */
+/* =================================
+   2. MAIN APP LAYOUT
+   ================================= */
+
+/* This container holds the sidebar and map */
 #app-container {
-  display: flex; /* Arrange child elements (sidebar and map) in a row. */
-  height: 100vh; /* Make the container take up the full height of the browser viewport. */
+  display: flex; /* Arrange sidebar and map in a row */
+  height: 100vh; /* Full browser height */
 }
 
-/* Style the sidebar. */
+/* The sidebar container */
 #sidebar {
   width: 340px;
-  padding: 10px;
+  padding: 10px 10px 0 10px; /* <-- CHANGED (Top, Right, Bottom, Left) */
   background-color: #ffffff;
-  display: flex;         
-  flex-direction: column;
+  display: flex;
+  flex-direction: column; /* Stack children vertically */
 }
+
+/* The map container */
+#map {
+  flex-grow: 1; /* Take up all remaining space */
+  height: 100%;
+}
+
+/* =================================
+   3. SIDEBAR: HEADER & CONTROLS
+   ================================= */
 
 #sidebar h2 {
   font-size: 22px;
   text-align: center;
-  margin-top: 0px;   
+  margin-top: 0px;
   margin-bottom: 10px;
 }
+
 #sidebar h2 .title-icon {
-    width: 22px; 
-    height: 22px;
-    vertical-align: middle;
+  width: 22px;
+  height: 22px;
+  vertical-align: middle;
 }
+
 /* --- Global Search (Top) --- */
 #global-search-container {
   position: relative;
@@ -78,8 +98,8 @@ body {
   box-sizing: border-box;
   border: 1px solid #696969;
   border-radius: 50px;
-  padding-right: 35px; 
-  margin-bottom: 0; 
+  padding-right: 35px;
+  margin-bottom: 0;
   font-size: 14px;
 }
 
@@ -119,15 +139,79 @@ body {
 #find-me-btn:hover {
   background-color: #0056b3;
 }
-/* --- New Scrollable Area Style --- */
+
+/* =================================
+   4. SIDEBAR: SCROLLABLE CONTENT
+   ================================= */
+
+/* This area holds the filters and list */
 #scrollable-area {
   flex-grow: 1;       /* Make this area fill the sidebar */
-  overflow-y: auto;   /* Make *this* area scrollable */
+  overflow-y: hidden;   /* This container itself does NOT scroll */
   min-height: 0;      /* Required for flex scrolling */
+  display: flex;
+  flex-direction: column; /* Stack filters on top of list */
 }
-/* --- Traffic Light List --- */
+
+/* --- Traffic Light List (DESKTOP DEFAULT) --- */
 #traffic-light-list {
   padding-left: 0;
+  list-style-type: none; /* (You already have this) */
+  flex-grow: 1;       /* Make the list fill the remaining space */
+  overflow-y: auto;   /* Make the list scrollable */
+  min-height: 0;      /* Required for flex scrolling */
+}
+
+/* --- Filter Checkbox Section --- */
+#filter-controls {
+  margin-bottom: 1px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid #ddd;
+}
+
+#filter-controls strong {
+  display: inline-block;
+  margin-bottom: 8px;
+}
+
+/* This hides any old filter buttons */
+#filter-controls button {
+  display: none;
+}
+
+/* Wrappers for horizontal filter groups */
+#filter-options-wrapper,
+#intersection-options-wrapper {
+  display: flex;   /* Aligns children in a row */
+  flex-wrap: wrap; /* Allows them to wrap to the next line */
+  margin-top: 5px;
+}
+
+#intersection-options-wrapper {
+  margin-top: 0;
+}
+
+/* Individual filter (checkbox + label) */
+.filter-option {
+  margin-bottom: 5px;
+  display: flex;
+  align-items: center;
+  margin-right: 15px; /* Adds space between filters */
+}
+
+.filter-option input[type="checkbox"] {
+  margin-right: 8px;
+  width: 16px;
+  height: 16px;
+}
+
+.filter-option label {
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.filter-option label:hover {
+  color: #007bff;
 }
 
 #traffic-light-list li {
@@ -142,104 +226,46 @@ body {
   background-color: #ddd;
 }
 
+/* This class is added by JS */
 #traffic-light-list li.active-list-item {
   background-color: #cedbfd;
   font-weight: normal;
   color: #005c99;
 }
 
-/* --- Map Container --- */
-#map {
-  flex-grow: 1; 
-  height: 100%;
-}
+/* =================================
+   5. RESPONSIVE STYLES (Mobile)
+   ================================= */
 
-/* --- New Filter Checkbox Styles --- */
-#filter-controls {
-  margin-bottom: 10px;
-  padding-bottom: 10px;
-  border-bottom: 1px solid #ddd;
-}
-
-#filter-controls strong {
-  display: inline-block; 
-  margin-bottom: 8px; 
-}
-
-/* This hides the old buttons */
-#filter-controls button {
-  display: none;
-}
-
-.filter-option {
-  margin-bottom: 5px; 
-  display: flex;
-  align-items: center;
-  margin-right: 15px; /* Adds space between filters */
-}
-
-.filter-option input[type="checkbox"] {
-  margin-right: 8px; 
-  width: 16px;
-  height: 16px;
-}
-
-.filter-option label {
-  font-size: 15px;
-  cursor: pointer;
-}
-
-.filter-option label:hover {
-  color: #007bff;
-}
-
-/* --- styles for horizontal filters --- */
-#filter-options-wrapper {
-  display: flex;     /* Aligns children in a row */
-  flex-wrap: wrap;   /* Allows them to wrap */
-  margin-top: 5px;   /* Fixed! */
-}
-
-#intersection-options-wrapper {
-  display: flex;     /* Aligns children in a row */
-  flex-wrap: wrap;   /* Allows them to wrap */
-  margin-top: 0px;   
-}
-
-/* --- Mobile Responsive Styles --- */
 @media (max-width: 700px) {
 
   /* 1. Stack the main containers */
   #app-container {
-    flex-direction: column; /* Stack sidebar and map */
-    height: auto; 
+    flex-direction: column; /* Stack sidebar on top of map */
+    height: auto;
   }
 
-  /* 2. Adjust sidebar for mobile */
+  /* 2. Sidebar takes top 50% */
   #sidebar {
-    width: 100%;       
-    height: 50vh;      /* Sidebar takes top 40% */
-    box-sizing: border-box; 
+    width: 100%;
+    height: 50vh;
+    box-sizing: border-box;
   }
 
-  /* 3. Give the map a fixed height */
+  /* 3. Map takes bottom 50% */
   #map {
-    width: 100%;  
-    height: 50vh; /* Map takes bottom 60% */
+    width: 100%;
+    height: 50vh;
   }
-  
-  /* 4. Make filter groups stack */
-  #filter-options-wrapper,
-  #intersection-options-wrapper {
-    flex-direction: column; /* Stack checkboxes vertically */
-    align-items: flex-start; /* Align them to the left */
+
+  #scrollable-area {
+    display: block;     /* Revert from flex */
+    overflow-y: auto;   /* Make this container scroll */
   }
-  
-  .filter-option {
-    margin-right: 0; /* Remove side margin */
+  #traffic-light-list {
+    flex-grow: 0;       /* Revert */
+    overflow-y: visible; /* Revert */
+    min-height: auto;   /* Revert */
   }
-  
+
 }
-
-
-
