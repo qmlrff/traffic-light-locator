@@ -29,7 +29,7 @@
   },
   {
 "code": "AG 17",
-"description": "Lebuh AMJ – Taman Sungai Petai Permai",
+"description": "Lebuh AMJ - Taman Sungai Petai Permai",
 "position": { "lat": 2.36325, "lng": 102.2154444 },
 "category": "SLIP",
 "intersectionType": "4 way"
@@ -113,28 +113,28 @@
   },
   {
 "code": "MT 01",
-"description": "  Lebuh AMJ – Taman Paya Rumput Indah.",
+"description": "  Lebuh AMJ - Taman Paya Rumput Indah.",
 "position": { "lat": 2.3018611, "lng": 102.2152778 },
 "category": "SLIP",
 "intersectionType": "3 way"
   },
   {
 "code": "MT 02",
-"description": "Lebuh AMJ – Rumah Awam Paya Rumput.",
+"description": "Lebuh AMJ - Rumah Awam Paya Rumput.",
 "position": { "lat": 2.2946667, "lng": 102.2153333 },
 "category": "SLIP",
 "intersectionType": "4 way"
   },
   {
 "code": "MT 03",
-"description": "Lebuh AMJ – Lebuh SPA (Bawah Jejambat) (Bertam  Ulu Bawah Flyover Lebuh SPA / AMJ)",
+"description": "Lebuh AMJ - Lebuh SPA (Bawah Jejambat) (Bertam  Ulu Bawah Flyover Lebuh SPA / AMJ)",
 "position": { "lat": 2.2823889, "lng": 102.2150833 },
 "category": "SLIP",
 "intersectionType": "4 way"
   },
   {
 "code": "MT 04",
-"description": "Lebuh AMJ – Taman Cheng Perdana(CIMB)",
+"description": "Lebuh AMJ - Taman Cheng Perdana(CIMB)",
 "position": { "lat": 2.2699444, "lng": 102.2168889 },
 "category": "SLIP",
 "intersectionType": "4 way"
@@ -148,35 +148,35 @@
   },
   {
 "code": "MT 06",
-"description": "Lebuh AMJ – Jalan Krubong (Berdekatan Caltex)",
+"description": "Lebuh AMJ - Jalan Krubong (Berdekatan Caltex)",
 "position": { "lat": 2.2593333, "lng": 102.2217222 },
 "category": "SLIP",
 "intersectionType": "3 way"
   },
   {
 "code": "MT 07",
-"description": "Lebuh AMJ – Jalan Dato  Seri Hj. Md. Zin (Berdekatan Stesen Minyak Petron)",
+"description": "Lebuh AMJ - Jalan Dato  Seri Hj. Md. Zin (Berdekatan Stesen Minyak Petron)",
 "position": { "lat": 2.2555278, "lng": 102.2224444 },
 "category": "SLIP",
 "intersectionType": "3 way"
   },
   {
 "code": "MT 08",
-"description": "Lebuh AMJ – Jalan Pulau Gadong (Jalan Tun Teja – Jalan Ke Pulau Gadong)",
+"description": "Lebuh AMJ - Jalan Pulau Gadong (Jalan Tun Teja - Jalan Ke Pulau Gadong)",
 "position": { "lat": 2.2453889, "lng": 102.2231389 },
 "category": "SLIP",
 "intersectionType": "4 way"
   },
   {
 "code": "MT 10",
-"description": "Lebuh AMJ – Jalan Poh Ah Tiam (Jalan Lorong Pandan-Jalan Malim)",
+"description": "Lebuh AMJ - Jalan Poh Ah Tiam (Jalan Lorong Pandan-Jalan Malim)",
 "position": { "lat": 2.2228611, "lng": 102.2343056 },
 "category": "SLIP",
 "intersectionType": "3 way"
   },
   {
 "code": "MT 11",
-"description": "Lebuh AMJ – Jalan Bachang (Berdekatan Plaza Wang)",
+"description": "Lebuh AMJ - Jalan Bachang (Berdekatan Plaza Wang)",
 "position": { "lat": 2.2198333, "lng": 102.2417778 },
 "category": "SLIP",
 "intersectionType": "4 way"
@@ -186,21 +186,21 @@
 "description": "Rumpun Bahagia",
 "position": { "lat": 2.2228333, "lng": 102.2415278 },
 "category": "SLIP",
-"intersectionType": "3 way"
+"intersectionType": "3 way "
   },
   {
 "code": "MT 12",
-"description": "Lebuh AMJ – Jalan Panglima Awang (Melaka Central/Jalan Tun Razak Bawah Jejantas)",
+"description": "Lebuh AMJ - Jalan Panglima Awang (Melaka Central/Jalan Tun Razak Bawah Jejantas)",
 "position": { "lat": 2.2193889, "lng": 102.2480278 },
 "category": "SLIP",
 "intersectionType": "4 way"
   },
   {
 "code": "MT 14",
-"description": "Lebuh AMJ – Jalan Durian Daun (Taman Malinja)",
+"description": "Lebuh AMJ - Jalan Durian Daun (Taman Malinja)",
 "position": { "lat": 2.2126667, "lng": 102.2641111 },
 "category": "SLIP",
-"intersectionType": "4 way"
+"intersectionType": "4 way "
   },
   {
 "code": "MT 15",
@@ -211,91 +211,91 @@
   },
   {
 "code": "MT 17",
-"description": "Lebuh AMJ – Jalan  Bukit Duyong (Jalan Bukit Katil – Muar)",
+"description": "Lebuh AMJ - Jalan  Bukit Duyong (Jalan Bukit Katil - Muar)",
 "position": { "lat": 2.1938333, "lng": 102.28825 },
 "category": "SLIP",
 "intersectionType": "3 way"
   },
   {
 "code": "MT 18",
-"description": "Lebuh AMJ – Kandang (Jalan Kandang Lama)",
+"description": "Lebuh AMJ - Kandang (Jalan Kandang Lama)",
 "position": { "lat": 2.1926944, "lng": 102.2918889 },
 "category": "SLIP",
 "intersectionType": "3 way"
   },
   {
 "code": "MT 19",
-"description": "Lebuh AMJ – Jalan Ayer Molek (Jalan Bukit Lintang – Jalan Kandang / Ayer Molek)",
+"description": "Lebuh AMJ - Jalan Ayer Molek (Jalan Bukit Lintang - Jalan Kandang / Ayer Molek)",
 "position": { "lat": 2.18925, "lng": 102.3026667 },
 "category": "SLIP",
 "intersectionType": "4 way"
   },
   {
 "code": "MT 20",
-"description": "Lebuh AMJ – Jalan Paya Dalam (Bukit Lintang)",
+"description": "Lebuh AMJ - Jalan Paya Dalam (Bukit Lintang)",
 "position": { "lat": 2.1894444, "lng": 102.3503611 },
 "category": "SLIP",
 "intersectionType": "4 way"
   },
   {
 "code": "MT 21",
-"description": "Lebuh SPA – Sg Udang",
+"description": "Lebuh SPA - Sg Udang",
 "position": { "lat": 2.2929167, "lng": 102.1330833 },
 "category": "SLIP",
 "intersectionType": "3 way"
   },
   {
 "code": "MT 22",
-"description": "Lebuh SPA – Penjara Sungai Udang",
+"description": "Lebuh SPA - Penjara Sungai Udang",
 "position": { "lat": 2.2896944, "lng": 102.13975 },
 "category": "SLIP",
 "intersectionType": "4 way"
   },
   {
 "code": "MT 22 (a)",
-"description": "Lebuh SPA – Tapak Pembuangan Sampah",
+"description": "Lebuh SPA - Tapak Pembuangan Sampah",
 "position": { "lat": 2.2909722, "lng": 102.1517222 },
 "category": "SLIP",
-"intersectionType": "3 way"
+"intersectionType": "3 way "
   },
   {
 "code": "MT 23",
-"description": "Lebuh SPA – Mukim Tanjung Minyak (Taman Seri Bertam)",
+"description": "Lebuh SPA - Mukim Tanjung Minyak (Taman Seri Bertam)",
 "position": { "lat": 2.2921944, "lng": 102.1696389 },
 "category": "SLIP",
 "intersectionType": "4 way"
   },
   {
 "code": "MT 24",
-"description": "Lebuh SPA – Taman Bertam Impian ",
+"description": "Lebuh SPA - Taman Bertam Impian ",
 "position": { "lat": 2.29175, "lng": 102.1811944 },
 "category": "SLIP",
 "intersectionType": "4 way"
   },
   {
 "code": "MT 25",
-"description": "Lebuh SPA – Taman Bertam Setia",
+"description": "Lebuh SPA - Taman Bertam Setia",
 "position": { "lat": 2.29225, "lng": 102.1906667 },
 "category": "SLIP",
 "intersectionType": "4 way"
   },
   {
 "code": "MT 26",
-"description": "Lebuh SPA – Taman Paya Emas",
+"description": "Lebuh SPA - Taman Paya Emas",
 "position": { "lat": 2.2836944, "lng": 102.2088889 },
 "category": "SLIP",
 "intersectionType": "4 way"
   },
   {
 "code": "MT 27",
-"description": "Lebuh SPA – Stadium Hang Jebat",
+"description": "Lebuh SPA - Stadium Hang Jebat",
 "position": { "lat": 2.2866111, "lng": 102.2311389 },
 "category": "SLIP",
 "intersectionType": "3 way"
   },
   {
 "code": "MT 28",
-"description": "Lebuh SPA – Jalan Krubong",
+"description": "Lebuh SPA - Jalan Krubong",
 "position": { "lat": 2.2882222, "lng": 102.2424444 },
 "category": "SLIP",
 "intersectionType": "4 way"
@@ -550,14 +550,14 @@
 "description": "Taman Riverside Residences",
 "position": { "lat": 0, "lng": 0 },
 "category": "Melaka Tengah",
-"intersectionType": "3 way"
+"intersectionType": "3 way "
   },
   {
 "code": "T 24 (b)",
 "description": "Taman Perindustrian Krubong",
 "position": { "lat": 2.295941, "lng": 102.246811 },
 "category": "Melaka Tengah",
-"intersectionType": "3 way"
+"intersectionType": "3 way "
   },
   {
 "code": "T 25",
@@ -694,21 +694,21 @@
   },
   {
 "code": "MT 05 (a)",
-"description": "Sek. Men. Tun Hj Abdul Malek",
+"description": "SMK Tun Hj Abdul Malek",
 "position": { "lat": 2.265272, "lng": 102.213973 },
 "category": "Melaka Tengah",
 "intersectionType": "3 way"
   },
   {
 "code": "MT 09",
-"description": "Lebuh AMJ – Plaza Pandan Malim (Bawah Jejambat)(Jalan Malim Jaya-Jalan Pandan Jaya Bawah Flyover)",
+"description": "Lebuh AMJ - Plaza Pandan Malim (Bawah Jejambat)(Jalan Malim Jaya-Jalan Pandan Jaya Bawah Flyover)",
 "position": { "lat": 2.2294444, "lng": 102.2281111 },
 "category": "Melaka Tengah",
 "intersectionType": "4 way"
   },
   {
 "code": "MT 13",
-"description": "Lebuh AMJ – Jalan Taming Sari (Bawah Jejambat)(Mufti Hj Khalil / Al-azim / Jalan Tun Razak)",
+"description": "Lebuh AMJ - Jalan Taming Sari (Bawah Jejambat)(Mufti Hj Khalil / Al-azim / Jalan Tun Razak)",
 "position": { "lat": 2.2151667, "lng": 102.2589444 },
 "category": "Melaka Tengah",
 "intersectionType": "4 way"
@@ -722,91 +722,91 @@
   },
   {
 "code": "MT 16",
-"description": "Lebuh AMJ – Jalan Semabok  (Bawah Jejambat)",
+"description": "Lebuh AMJ - Jalan Semabok  (Bawah Jejambat)",
 "position": { "lat": 2.1960833, "lng": 102.2754722 },
 "category": "Melaka Tengah",
 "intersectionType": "4 way"
   },
   {
 "code": "MT 29",
-"description": "Jalan Kandang – Jalan Alai (Balai Polis Kandang)",
+"description": "Jalan Kandang - Jalan Alai (Balai Polis Kandang)",
 "position": { "lat": 2.184807, "lng": 102.298451 },
 "category": "Melaka Tengah",
 "intersectionType": "3 way"
   },
   {
 "code": "MT 30",
-"description": "Jalan Alai – Jalan Telok Mas (Berdekatan Sek Keb Alai)",
+"description": "Jalan Alai - Jalan Telok Mas (Berdekatan SK Alai)",
 "position": { "lat": 2.176999, "lng": 102.306938 },
 "category": "Melaka Tengah",
 "intersectionType": "3 way"
   },
   {
 "code": "MT 31",
-"description": "Jalan Telok Emas – Jalan Umbai (Berdekatan Sek Henry Gurney)",
+"description": "Jalan Telok Emas - Jalan Umbai (Berdekatan Sek Henry Gurney)",
 "position": { "lat": 2.161396, "lng": 102.322334 },
 "category": "Melaka Tengah",
 "intersectionType": "4 way"
   },
   {
 "code": "MT 32",
-"description": "Jalan Padang Temu – Jalan Ujong Pasir (Jalan Taman Pertam Jaya)",
+"description": "Jalan Padang Temu - Jalan Ujong Pasir (Jalan Taman Pertam Jaya)",
 "position": { "lat": 2.186171, "lng": 102.277285 },
 "category": "Melaka Tengah",
 "intersectionType": "4 way"
   },
   {
 "code": "MT 33",
-"description": "Jalan Ke Muara Sg Duyong – Permatang Pasir (Berdekatan Bomba)",
+"description": "Jalan Ke Muara Sg Duyong - Permatang Pasir (Berdekatan Bomba)",
 "position": { "lat": 2.18323, "lng": 102.291541 },
 "category": "Melaka Tengah",
 "intersectionType": "4 way"
   },
   {
 "code": "MT 34",
-"description": "Jalan Solok Paya Ikan – Jalan Bukit Duyong (Jalan Penghulu Abas / Pangsapuri Seri Siantan)",
+"description": "Jalan Solok Paya Ikan - Jalan Bukit Duyong (Jalan Penghulu Abas / Pangsapuri Seri Siantan)",
 "position": { "lat": 2.217478, "lng": 102.273292 },
 "category": "Melaka Tengah",
 "intersectionType": "3 way"
   },
   {
 "code": "MT 35",
-"description": "Mukim Bukit Baru – Flat Sri Siantan (Tapak Pasar Malam)",
+"description": "Mukim Bukit Baru - Flat Sri Siantan (Tapak Pasar Malam)",
 "position": { "lat": 2.216764, "lng": 102.271096 },
 "category": "Melaka Tengah",
 "intersectionType": "4 way"
   },
   {
 "code": "MT 36",
-"description": "Jalan Bukit Baru – Jalan Hospital (Pejabat Pos)",
+"description": "Jalan Bukit Baru - Jalan Hospital (Pejabat Pos)",
 "position": { "lat": 2.214818, "lng": 102.264618 },
 "category": "Melaka Tengah",
 "intersectionType": "4 way"
   },
   {
 "code": "MT 37",
-"description": "(3fasa) Jalan Paya Ikan Bukit Baru / Jalan Ke Duyong",
+"description": "Jalan Paya Ikan Bukit Baru / Jalan Ke Duyong (3fasa)",
 "position": { "lat": 2.22067, "lng": 102.277239 },
 "category": "Melaka Tengah",
 "intersectionType": "4 way"
   },
   {
 "code": "MT 38",
-"description": "Jalan Bukit Katil – Jalan Duyong (Jalan Bukit Katil / Bukit Baru / Ayer Molek)",
+"description": "Jalan Bukit Katil - Jalan Duyong (Jalan Bukit Katil / Bukit Baru / Ayer Molek)",
 "position": { "lat": 2.203143, "lng": 102.293188 },
 "category": "Melaka Tengah",
 "intersectionType": "4 way"
   },
   {
 "code": "MT 39",
-"description": "Jalan Bukit Duyong – Jalan Semabok Dalam (Perigi Hang Tuah)",
+"description": "Jalan Bukit Duyong - Jalan Semabok Dalam (Perigi Hang Tuah)",
 "position": { "lat": 2.200313, "lng": 102.292378 },
 "category": "Melaka Tengah",
 "intersectionType": "Spg4"
   },
   {
 "code": "MT 40",
-"description": "Jalan Tambak Paya – Jalan Tiang Dua",
+"description": "Jalan Tambak Paya - Jalan Tiang Dua",
 "position": { "lat": 2.21551, "lng": 102.337371 },
 "category": "Melaka Tengah",
 "intersectionType": "4 way"
@@ -820,21 +820,21 @@
   },
   {
 "code": "MT 42",
-"description": "Jalan Duyong – Taman Desa Duyong",
+"description": "Jalan Duyong - Taman Desa Duyong",
 "position": { "lat": 2.203371, "lng": 102.302554 },
 "category": "Melaka Tengah",
 "intersectionType": "3 way"
   },
   {
 "code": "MT 43",
-"description": "Jalan Duyong – Taman Seri Duyong Seksyen 2 (Family Store Duyong)",
+"description": "Jalan Duyong - Taman Seri Duyong Seksyen 2 (Family Store Duyong)",
 "position": { "lat": 2.203521, "lng": 102.309775 },
 "category": "Melaka Tengah",
 "intersectionType": "3 way"
   },
   {
 "code": "MT 44",
-"description": "Pengkalan Jaya – Tun Kudu",
+"description": "Pengkalan Jaya - Tun Kudu",
 "position": { "lat": 2.227151, "lng": 102.316774 },
 "category": "Melaka Tengah",
 "intersectionType": "3 way"
@@ -848,14 +848,14 @@
   },
   {
 "code": "MT 46",
-"description": "Jalan Sungai Udang – Kem Komando (Berhampiran Stesen Minyak Shell)",
+"description": "Jalan Sungai Udang - Kem Komando (Berhampiran Stesen Minyak Shell)",
 "position": { "lat": 2.2815, "lng": 102.1349167 },
 "category": "Melaka Tengah",
 "intersectionType": "3 way"
   },
   {
 "code": "MT 47",
-"description": "Jalan Sungai Udang – Jalan Bukit Terendak (Kem Terendak Sg. Udang)",
+"description": "Jalan Sungai Udang - Jalan Bukit Terendak (Kem Terendak Sg. Udang)",
 "position": { "lat": 2.2890833, "lng": 102.1306111 },
 "category": "Melaka Tengah",
 "intersectionType": "3 way"
@@ -869,21 +869,21 @@
   },
   {
 "code": "MT 49",
-"description": "Jalan Tangga Batu – Jalan Bukit Salleh",
+"description": "Jalan Tangga Batu - Jalan Bukit Salleh",
 "position": { "lat": 2.263305, "lng": 102.146605 },
 "category": "Melaka Tengah",
 "intersectionType": "3 way"
   },
   {
 "code": "MT 50",
-"description": "Tangga Batu – Jalan Pantai Kundor (Perindustrian Tangga Batu)",
+"description": "Tangga Batu - Jalan Pantai Kundor (Perindustrian Tangga Batu)",
 "position": { "lat": 2.254, "lng": 102.1528056 },
 "category": "Melaka Tengah",
 "intersectionType": "3 way"
   },
   {
 "code": "MT 51",
-"description": "Tangga Batu – Jalan Bukit Rambai (Masjid Tangga Batu)",
+"description": "Tangga Batu - Jalan Bukit Rambai (Masjid Tangga Batu)",
 "position": { "lat": 2.2506111, "lng": 102.1552778 },
 "category": "Melaka Tengah",
 "intersectionType": "3 way"
@@ -925,35 +925,35 @@
   },
   {
 "code": "MT 56",
-"description": "Jalan Bukit Rambai – Jalan Ayer Salak (Jalan Tg Minyak – Ayer Salak)",
+"description": "Jalan Bukit Rambai - Jalan Ayer Salak (Jalan Tg Minyak - Ayer Salak)",
 "position": { "lat": 2.258714, "lng": 102.177052 },
 "category": "Melaka Tengah",
 "intersectionType": "3 way"
   },
   {
 "code": "MT 57",
-"description": "Bukit Rambai Utama – Taman Tg Minyak (Berdekatan Stesen Petronas)",
+"description": "Bukit Rambai Utama - Taman Tg Minyak (Berdekatan Stesen Petronas)",
 "position": { "lat": 2.262881, "lng": 102.191452 },
 "category": "Melaka Tengah",
 "intersectionType": "4 way"
   },
   {
 "code": "MT 58",
-"description": "Jalan Tanjung Minyak – Jalan Bukit Rambai (Jalan Tg Minyak – Bukit Rambai)",
+"description": "Jalan Tanjung Minyak - Jalan Bukit Rambai (Jalan Tg Minyak - Bukit Rambai)",
 "position": { "lat": 2.260026, "lng": 102.197532 },
 "category": "Melaka Tengah",
 "intersectionType": "3 way"
   },
   {
 "code": "MT 59",
-"description": "Jalan Bukit Rambai – Berhampiran Balai Polis Bukit Rambai",
+"description": "Jalan Bukit Rambai - Berhampiran Balai Polis Bukit Rambai",
 "position": { "lat": 2.247882, "lng": 102.190249 },
 "category": "Melaka Tengah",
 "intersectionType": "3 way"
   },
   {
 "code": "MT 60",
-"description": "Jalan Klebang – Jalan Batang Tiga  (Berdekatan Balai Polis Batang Tiga)",
+"description": "Jalan Klebang - Jalan Batang Tiga  (Berdekatan Balai Polis Batang Tiga)",
 "position": { "lat": 2.2203889, "lng": 102.1872222 },
 "category": "Melaka Tengah",
 "intersectionType": "3 way"
@@ -981,63 +981,63 @@
   },
   {
 "code": "MT 62",
-"description": "Jalan Tanjung Kling – Jalan Kg. Pinang (Sg Lereh – Kg. Pinang)",
+"description": "Jalan Tanjung Kling - Jalan Kg. Pinang (Sg Lereh - Kg. Pinang)",
 "position": { "lat": 2.2221944, "lng": 102.1755556 },
 "category": "Melaka Tengah",
 "intersectionType": "3 way"
   },
   {
 "code": "MT 63",
-"description": "Pulau Gadong – Taman Gadong Perdana",
+"description": "Pulau Gadong - Taman Gadong Perdana",
 "position": { "lat": 2.237921, "lng": 102.213254 },
 "category": "Melaka Tengah",
 "intersectionType": "3 way"
   },
   {
 "code": "MT 64",
-"description": "Jalan Klebang Besar – Jalan Pulau Gadong",
+"description": "Jalan Klebang Besar - Jalan Pulau Gadong",
 "position": { "lat": 2.21674, "lng": 102.203821 },
 "category": "Melaka Tengah",
 "intersectionType": "3 way"
   },
   {
 "code": "MT 65",
-"description": "3 wayJalan Limbongan – Jalan Pokok Mangga",
+"description": "Jalan Limbongan - Jalan Pokok Mangga",
 "position": { "lat": 2.2079722, "lng": 102.2166667 },
 "category": "Melaka Tengah",
 "intersectionType": "3 way"
   },
   {
 "code": "MT 66",
-"description": "Lebuhraya Limbongan (Berdekatan Surau / Hospital Orential",
+"description": "Lebuhraya Limbongan (Berdekatan Surau / Hospital Orential)",
 "position": { "lat": 2.2101111, "lng": 102.2134722 },
 "category": "Melaka Tengah",
 "intersectionType": "4 way"
   },
   {
 "code": "MT 67",
-"description": "Jalan Poh Ah Tiam – Taman Kesidang Seksyen 2",
+"description": "Jalan Poh Ah Tiam - Taman Kesidang Seksyen 2",
 "position": { "lat": 2.2145556, "lng": 102.2301667 },
 "category": "Melaka Tengah",
 "intersectionType": "4 way"
   },
   {
 "code": "MT 68",
-"description": "Jalan Poh Ah Tiam – Taman Anika (Berdekatan Pangsapuri Anika)",
+"description": "Jalan Poh Ah Tiam - Taman Anika (Berdekatan Pangsapuri Anika)",
 "position": { "lat": 2.2198056, "lng": 102.2324444 },
 "category": "Melaka Tengah",
 "intersectionType": "4 way"
   },
   {
 "code": "MT 69",
-"description": "Jalan Krubong – Taman Krubong Perdana",
+"description": "Jalan Krubong - Taman Krubong Perdana",
 "position": { "lat": 2.3272222, "lng": 102.2496667 },
 "category": "Melaka Tengah",
 "intersectionType": "4 way"
   },
   {
 "code": "MT 70",
-"description": "Jalan Krubong – Taman Krubong Jaya",
+"description": "Jalan Krubong - Taman Krubong Jaya",
 "position": { "lat": 2.2958889, "lng": 102.2468056 },
 "category": "Melaka Tengah",
 "intersectionType": "Spg3"
@@ -1058,42 +1058,42 @@
   },
   {
 "code": "MT 73",
-"description": "Taman Seri Krubong – Taman Krubong Perdana (Tampoi)",
+"description": "Taman Seri Krubong - Taman Krubong Perdana (Tampoi)",
 "position": { "lat": 2.2785278, "lng": 102.2353056 },
 "category": "Melaka Tengah",
 "intersectionType": "4 way"
   },
   {
 "code": "MT 74",
-"description": "Jalan Dato  Seri Mohd Zin – Jalan Taman Teknologi Cheng 1 c/w Countdown (Berdekatan Cowboy)",
+"description": "Jalan Dato  Seri Mohd Zin - Jalan Taman Teknologi Cheng 1 c/w Countdown (Berdekatan Cowboy)",
 "position": { "lat": 2.2566111, "lng": 102.2283889 },
 "category": "Melaka Tengah",
 "intersectionType": "3 way"
   },
   {
 "code": "MT 75",
-"description": "Jalan Tun Fatimah – Taman Bachang Jaya (Berdekatan Giant / Kg Sanglang)",
+"description": "Jalan Tun Fatimah - Taman Bachang Jaya (Berdekatan Giant / Kg Sanglang)",
 "position": { "lat": 2.2260278, "lng": 102.2498889 },
 "category": "Melaka Tengah",
 "intersectionType": "3 way"
   },
   {
 "code": "MT 76",
-"description": "Jalan Tun Fatimah – Melaka Sentral (Dalam Melaka Sentral)",
+"description": "Jalan Tun Fatimah - Melaka Sentral (Dalam Melaka Sentral)",
 "position": { "lat": 2.2223611, "lng": 102.24875 },
 "category": "Melaka Tengah",
 "intersectionType": "3 way"
   },
   {
 "code": "MT 77",
-"description": "Jalan Tun Fatimah – Taman Malim Jaya (Berdekatan Caltex)",
+"description": "Jalan Tun Fatimah - Taman Malim Jaya (Berdekatan Caltex)",
 "position": { "lat": 2.2393889, "lng": 102.2339444 },
 "category": "Melaka Tengah",
 "intersectionType": "3 way"
   },
   {
 "code": "MT 78",
-"description": "Jalan Tun Fatimah – Taman Malim Jaya Seksyen 1 (Berdekatan Cosplus)",
+"description": "Jalan Tun Fatimah - Taman Malim Jaya Seksyen 1 (Berdekatan Cosplus)",
 "position": { "lat": 0, "lng": 0 },
 "category": "Melaka Tengah",
 "intersectionType": "3 way"
@@ -1107,119 +1107,119 @@
   },
   {
 "code": "MT 02 P",
-"description": "Lintasan Pejalan Kaki Sek. Keb. Bukit Rambai (Berdekatan Balai Polis Bukit Rambai)",
+"description": "Lintasan Pejalan Kaki SK Bukit Rambai (Berdekatan Balai Polis Bukit Rambai)",
 "position": { "lat": 2.246776, "lng": 102.191612 },
 "category": "Melaka Tengah",
 "intersectionType": "Pedestrian"
   },
   {
 "code": "MT 03 P",
-"description": "Lintasan Pejalan Kaki Sek. Keb. Jenis Keb (C) Lereh",
+"description": "Lintasan Pejalan Kaki SK Jenis Keb (C) Lereh",
 "position": { "lat": 2.22197, "lng": 102.174021 },
 "category": "Melaka Tengah",
 "intersectionType": "Pedestrian"
   },
   {
 "code": "MT 04 P",
-"description": "Lintasan Pejalan Kaki Searas Satu (1) Malaysia, Sek Keb Lereh",
+"description": "Lintasan Pejalan Kaki Searas Satu (1) Malaysia, SK Lereh",
 "position": { "lat": 2.221716, "lng": 102.169547 },
 "category": "Melaka Tengah",
 "intersectionType": "Pedestrian"
   },
   {
 "code": "MT 05 P",
-"description": "Lintasan Pejalan Kaki Searas Satu (1) Malaysia, Sek Keb Kg Gelam",
+"description": "Lintasan Pejalan Kaki Searas Satu (1) Malaysia, SK Kg Gelam",
 "position": { "lat": 2.23791, "lng": 102.160787 },
 "category": "Melaka Tengah",
 "intersectionType": "Pedestrian"
   },
   {
 "code": "MT 06 P",
-"description": "Lintasan Pejalan Kaki Sek Men Keb Kg Gelam",
+"description": "Lintasan Pejalan Kaki SMK Kg Gelam",
 "position": { "lat": 2.233865, "lng": 102.160445 },
 "category": "Melaka Tengah",
 "intersectionType": "Pedestrian"
   },
   {
 "code": "MT 07 P",
-"description": "Lintasan Pejalan Kaki Sek. Men Keb Sri Tanjong",
+"description": "Lintasan Pejalan Kaki SMK Sri Tanjong",
 "position": { "lat": 2.243045, "lng": 102.156848 },
 "category": "Melaka Tengah",
 "intersectionType": "Pedestrian"
   },
   {
 "code": "MT 08 P",
-"description": "Lintasan Pejalan Kaki Sek Ren Keb Bukit Rambai",
+"description": "Lintasan Pejalan Kaki SK Bukit Rambai",
 "position": { "lat": 2.258198, "lng": 102.171211 },
 "category": "Melaka Tengah",
 "intersectionType": "Pedestrian"
   },
   {
 "code": "MT 09 P",
-"description": "Lintasan Pejalan Kaki Sek Men Keb Bukit Rambai",
+"description": "Lintasan Pejalan Kaki SMK Bukit Rambai",
 "position": { "lat": 2.258807, "lng": 102.172831 },
 "category": "Melaka Tengah",
 "intersectionType": "Pedestrian"
   },
   {
 "code": "MT 10 P",
-"description": "Lintasan Pejalan Kaki Sek Keb Tangga Batu",
+"description": "Lintasan Pejalan Kaki SK Tangga Batu",
 "position": { "lat": 2.262575, "lng": 102.148613 },
 "category": "Melaka Tengah",
 "intersectionType": "Pedestrian"
   },
   {
 "code": "MT 11 P",
-"description": "Lintasan Pejalan Kaki Sek Keb Cheng",
+"description": "Lintasan Pejalan Kaki SK Cheng",
 "position": { "lat": 2.260742, "lng": 102.224287 },
 "category": "Melaka Tengah",
 "intersectionType": "Pedestrian"
   },
   {
 "code": "MT 12 P",
-"description": "Lintasan Pejalan Kaki Sek Keb Pernu, Umbai",
+"description": "Lintasan Pejalan Kaki SK Pernu, Umbai",
 "position": { "lat": 2.161027, "lng": 102.331931 },
 "category": "Melaka Tengah",
 "intersectionType": "Pedestrian"
   },
   {
 "code": "MT 13 P",
-"description": "Lintasan Pejalan Kaki Sek Keb Bendahara Sri Mahajaya, Kandang",
+"description": "Lintasan Pejalan Kaki SK Bendahara Sri Mahajaya, Kandang",
 "position": { "lat": 2.191808, "lng": 102.306648 },
 "category": "Melaka Tengah",
 "intersectionType": "Pedestrian"
   },
   {
 "code": "MT 14 P",
-"description": "Lintasan Pejalan Kaki Sek Ren Agama JAIM Telok Mas",
+"description": "Lintasan Pejalan Kaki SRA JAIM Telok Mas",
 "position": { "lat": 2.165906, "lng": 102.320037 },
 "category": "Melaka Tengah",
 "intersectionType": "Pedestrian"
   },
   {
 "code": "MT 15 P",
-"description": "Lintasan Pejalan Kaki Sek Men St. David Bukit Baru",
+"description": "Lintasan Pejalan Kaki SMK St. David Bukit Baru",
 "position": { "lat": 2.220778, "lng": 102.276525 },
 "category": "Melaka Tengah",
 "intersectionType": "Pedestrian"
   },
   {
 "code": "MT 16 P",
-"description": "Lintasan Pejalan Kaki Sek Ren Jenis Keb (C) Keh Seng Bukit Baru",
+"description": "Lintasan Pejalan Kaki SJKC Keh Seng Bukit Baru",
 "position": { "lat": 2.216474, "lng": 102.269809 },
 "category": "Melaka Tengah",
 "intersectionType": "Pedestrian"
   },
   {
 "code": "MT 17 P",
-"description": "Lintasan Pejalan Kaki Sek Ren Bukit Baru (Kg. Bukit Piatu)",
+"description": "Lintasan Pejalan Kaki SK Bukit Baru (Kg. Bukit Piatu)",
 "position": { "lat": 2.2118544, "lng": 102.2757784 },
 "category": "Melaka Tengah",
 "intersectionType": "Pedestrian"
   },
   {
 "code": "MT 18 P",
-"description": "Lintasan Pejalan Kaki Sek Keb Seri Duyong",
+"description": "Lintasan Pejalan Kaki SK Seri Duyong",
 "position": { "lat": 2.2034167, "lng": 102.3061111 },
 "category": "Melaka Tengah",
 "intersectionType": "Pedestrian"
@@ -1317,7 +1317,7 @@
   },
   {
 "code": "MT 33 P",
-"description": "Sek Men Keb Agama Sharifah Rodziah",
+"description": "SMKA Sharifah Rodziah",
 "position": { "lat": 2.168409, "lng": 102.318042 },
 "category": "Melaka Tengah",
 "intersectionType": "Pedestrian"
@@ -1345,7 +1345,7 @@
   },
   {
 "code": "MT 09 (a)",
-"description": "  Plaza Malim – Pokok Mangga",
+"description": "  Plaza Malim - Pokok Mangga",
 "position": { "lat": 2.2284102, "lng": 102.22271 },
 "category": "Melaka Tengah",
 "intersectionType": "3 way"
@@ -1373,7 +1373,7 @@
   },
   {
 "code": "AG 04 (a)",
-"description": "Beringin/Londang",
+"description": "Beringin / Londang",
 "position": { "lat": 0, "lng": 0 },
 "category": "Alor Gajah",
 "intersectionType": "3 way"
@@ -1401,7 +1401,7 @@
   },
   {
 "code": "AG 07 (a)",
-"description": "Telok Gong – Kuala Sungai Baru",
+"description": "Telok Gong - Kuala Sungai Baru",
 "position": { "lat": 2.359587, "lng": 102.040357 },
 "category": "Alor Gajah",
 "intersectionType": "3 way"
@@ -1422,7 +1422,7 @@
   },
   {
 "code": "AG 10",
-"description": "Sek Keb Demang Taha",
+"description": "SK Demang Taha",
 "position": { "lat": 2.366524, "lng": 102.093905 },
 "category": "Alor Gajah",
 "intersectionType": "3 way"
@@ -1548,7 +1548,7 @@
   },
   {
 "code": "AG 37",
-"description": "Lebuh SPA - Utem",
+"description": "Lebuh SPA - UTEM",
 "position": { "lat": 0, "lng": 0 },
 "category": "Alor Gajah",
 "intersectionType": "4 way"
@@ -1576,14 +1576,14 @@
   },
   {
 "code": "AG 41",
-"description": " padang keladi / inb resort",
+"description": " Padang Keladi / INB Resort",
 "position": { "lat": 2.296688, "lng": 102.309163 },
 "category": "Alor Gajah",
 "intersectionType": "3 way"
   },
   {
 "code": "AG PED 01",
-"description": "Sek. Keb. Lubuk Redan",
+"description": "SK Lubuk Redan",
 "position": { "lat": 2.374609, "lng": 102.068237 },
 "category": "Alor Gajah",
 "intersectionType": "Pedestrian"
@@ -1597,7 +1597,7 @@
   },
   {
 "code": "AG PED 03",
-"description": "SJK(C) Yok Sin, Kuala Sungai Baru",
+"description": "SJKC Yok Sin, Kuala Sungai Baru",
 "position": { "lat": 2.361356, "lng": 102.038032 },
 "category": "Alor Gajah",
 "intersectionType": "Pedestrian"
@@ -1618,7 +1618,7 @@
   },
   {
 "code": "AG PED 06",
-"description": "Sek. Men. Dol Said",
+"description": "SMK Dol Said",
 "position": { "lat": 2.374544, "lng": 102.208173 },
 "category": "Alor Gajah",
 "intersectionType": "Pedestrian"
@@ -1632,49 +1632,49 @@
   },
   {
 "code": "AG PED 08",
-"description": "Sek. Keb. Ganun",
+"description": "SK Ganun",
 "position": { "lat": 2.409857, "lng": 102.240124 },
 "category": "Alor Gajah",
 "intersectionType": "Pedestrian"
   },
   {
 "code": "AG PED 09",
-"description": "SMK. Durian Tunggal",
+"description": "SMK Durian Tunggal",
 "position": { "lat": 2.308808, "lng": 102.276208 },
 "category": "Alor Gajah",
 "intersectionType": "Pedestrian"
   },
   {
 "code": "AG PED 10",
-"description": "  Sek.Keb. Sungai Tuang",
+"description": "SK Sungai Tuang",
 "position": { "lat": 2.336172, "lng": 102.061599 },
 "category": "Alor Gajah",
 "intersectionType": "Pedestrian"
   },
   {
 "code": "AG PED 11",
-"description": "  Sek. Men. Keb. Sultan Alaudin              ",
+"description": "  SMK Sultan Alaudin              ",
 "position": { "lat": 2.347164, "lng": 102.101542 },
 "category": "Alor Gajah",
 "intersectionType": "Pedestrian"
   },
   {
 "code": "AG PED 12",
-"description": "  Sek. Men. Keb. Lubok China",
+"description": "  SMK Keb. Lubok China",
 "position": { "lat": 2.448315, "lng": 102.069848 },
 "category": "Alor Gajah",
 "intersectionType": "Pedestrian"
   },
   {
 "code": "AG PED 13",
-"description": "  Sek. Keb. Bukit Beringin",
+"description": "  SK Bukit Beringin",
 "position": { "lat": 2.352921, "lng": 102.099466 },
 "category": "Alor Gajah",
 "intersectionType": "Pedestrian"
   },
   {
 "code": "AG PED 14",
-"description": "  Sek. Keb. Kuala Linggi",
+"description": "  SK Kuala Linggi",
 "position": { "lat": 2.37282, "lng": 101.984819 },
 "category": "Alor Gajah",
 "intersectionType": "Pedestrian"
@@ -1695,14 +1695,14 @@
   },
   {
 "code": "AG PED 17",
-"description": "  Sek. Keb. Pengkalan Balak",
+"description": "  SK Pengkalan Balak",
 "position": { "lat": 2.326281, "lng": 102.079452 },
 "category": "Alor Gajah",
 "intersectionType": "Pedestrian"
   },
   {
 "code": "AG PED 18",
-"description": "  Sek. Keb. Othman Syawal",
+"description": "  SK Othman Syawal",
 "position": { "lat": 2.358478, "lng": 102.036139 },
 "category": "Alor Gajah",
 "intersectionType": "Pedestrian"
@@ -1744,20 +1744,20 @@
   },
   {
 "code": "AG 40",
-"description": "Durian Tunggal (J2)",
+"description": " Durian Tunggal (J2)",
 "position": { "lat": 0, "lng": 0 },
 "category": "Alor Gajah",
 "intersectionType": "4 way"
   },
   {
-"code": "-",
-"description": " Taman Terendak Height / Sek Men Sains Alor Gajah",
+"code": "0",
+"description": " Taman Terendak Height / SMK Sains Alor Gajah",
 "position": { "lat": 2.2950833, "lng": 102.1339444 },
 "category": "Alor Gajah",
 "intersectionType": "4 way"
   },
   {
-"code": "-",
+"code": "0",
 "description": "Taman Kasa Height/Taman Puncak Kasa Heights",
 "position": { "lat": 2.381008, "lng": 102.218414 },
 "category": "Alor Gajah",
@@ -1789,7 +1789,7 @@
 "description": "Taman Merbau (Flat polis)",
 "position": { "lat": 2.289351, "lng": 102.406403 },
 "category": "Jasin",
-"intersectionType": "3 way"
+"intersectionType": " 3 way "
   },
   {
 "code": "JS 004",
@@ -1803,7 +1803,7 @@
 "description": "Lipat Kajang ",
 "position": { "lat": 2.276244, "lng": 102.440922 },
 "category": "Jasin",
-"intersectionType": "3 way"
+"intersectionType": " 3 way "
   },
   {
 "code": "JS 005",
@@ -1831,7 +1831,7 @@
 "description": "Seri Mendapat-Uitm Jasin / Semujuk",
 "position": { "lat": 2.225377, "lng": 102.444089 },
 "category": "Jasin",
-"intersectionType": "3 way"
+"intersectionType": " 3 way "
   },
   {
 "code": "JS 008",
@@ -1989,7 +1989,7 @@
   },
   {
 "code": "JS PED 001",
-"description": "Sek. Keb. Tun Perak",
+"description": "SK Tun Perak",
 "position": { "lat": 0, "lng": 0 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
@@ -2010,49 +2010,49 @@
   },
   {
 "code": "JS PED 004",
-"description": "Sek. Men. Keb. Simpang Bekoh Nyalas",
+"description": "SMK Simpang Bekoh Nyalas",
 "position": { "lat": 2.359643, "lng": 102.512151 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
 "code": "JS PED 005",
-"description": "Sek. Keb. Chao Chee Selandar",
+"description": "SJKC Chao Chee Selandar",
 "position": { "lat": 2.38921, "lng": 102.379388 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
 "code": "JS PED 006",
-"description": "Sek. Men. Selandar",
+"description": "SMK Selandar",
 "position": { "lat": 2.38837, "lng": 102.374878 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
 "code": "JS PED 007",
-"description": "Sek. Keb. Selandar",
+"description": "SK Selandar",
 "position": { "lat": 2.376205, "lng": 102.371869 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
 "code": "JS PED 008",
-"description": "Sek. Keb. Batang Melaka",
+"description": "SK Batang Melaka",
 "position": { "lat": 2.470512, "lng": 102.412435 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
 "code": "JS PED 009",
-"description": "Sek. Keb. Terentang",
+"description": "SK Terentang",
 "position": { "lat": 2.289408, "lng": 102.4597 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
 "code": "JS PED 010",
-"description": "Sek. Keb. Batu Gajah, Merlimau",
+"description": "SK Batu Gajah, Merlimau",
 "position": { "lat": 2.154419, "lng": 102.475088 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
@@ -2066,7 +2066,7 @@
   },
   {
 "code": "JS PED 012",
-"description": "Sek. Men. Dang Anum, Merlimau",
+"description": "SMK Dang Anum, Merlimau",
 "position": { "lat": 2.158524, "lng": 102.427321 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
@@ -2087,42 +2087,42 @@
   },
   {
 "code": "JS PED 013",
-"description": "Sek. Keb. Sempang, Merlimau",
+"description": "SK Sempang, Merlimau",
 "position": { "lat": 2.144956, "lng": 102.407118 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
 "code": "JS PED 014",
-"description": "Sek. Keb. Tedong Merlimau",
+"description": "SK Tedong Merlimau",
 "position": { "lat": 2.144309, "lng": 102.395547 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
 "code": "JS PED 015",
-"description": "Sek. Keb. Serkam Darat",
+"description": "SK Serkam Darat",
 "position": { "lat": 2.151075, "lng": 102.388597 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
-"code": "JS PED 015(a)",
-"description": "Sek. Keb. Serkam ",
+"code": "JS PED 015 (a)",
+"description": "SK Serkam ",
 "position": { "lat": 2.138677, "lng": 102.382118 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
 "code": "JS PED 016",
-"description": "Sek. Keb. Pulai",
+"description": "SK Pulai",
 "position": { "lat": 2.144656, "lng": 102.369665 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
 "code": "JS PED 017",
-"description": "Sek. Keb. Datuk Hj. Baginda, Pulai",
+"description": "SK Datuk Hj. Baginda, Pulai",
 "position": { "lat": 2.153621, "lng": 102.350085 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
@@ -2136,14 +2136,14 @@
   },
   {
 "code": "JS PED 019",
-"description": "Sek. Keb. Bukit Tembakau",
+"description": "SK Bukit Tembakau",
 "position": { "lat": 2.16875, "lng": 102.343215 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
 "code": "JS PED 020",
-"description": "Sek. Men. Keb. Sri Mahkota Pulai",
+"description": "SMK Keb. Sri Mahkota Pulai",
 "position": { "lat": 2.145129, "lng": 102.365552 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
@@ -2206,28 +2206,28 @@
   },
   {
 "code": "JS PED 029",
-"description": "Sek. Keb. Ayer Baruk",
+"description": "SK Ayer Baruk",
 "position": { "lat": 2.307446, "lng": 102.42729 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
 "code": "JS PED 030",
-"description": "Sek. Men. Keb. Tun Syed Zahiruddin ",
+"description": "SMK Tun Syed Zahiruddin ",
 "position": { "lat": 2.130993, "lng": 102.446488 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
 "code": "JS PED 031",
-"description": "Sek. Keb. Asahan ",
+"description": "SK Asahan ",
 "position": { "lat": 2.392771, "lng": 102.545529 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
   },
   {
 "code": "JS PED 032",
-"description": "Sek.Ren. Agama JAIM Rim",
+"description": "SRA JAIM Rim",
 "position": { "lat": 2.3112259, "lng": 102.441771 },
 "category": "Jasin",
 "intersectionType": "Pedestrian"
