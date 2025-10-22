@@ -1,5 +1,5 @@
   {
-"name": "wrangler",
+"name": "traffic-light-locator",
 "compatibility_date": "2025-10-22",
 "assets": {
 "directory": "./dist"
