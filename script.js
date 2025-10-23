@@ -52,7 +52,7 @@ function initMap() {
        */
       function applyFilters() {
         // 1. Get the search term
-        const searchTerm = filterSearchInput.value.toLowerCase();
+        const searchTerm = filterSearchInput.value.toLowerCase().replace(/\s/g, '');
         
         // 2. Get selected CATEGORY filters
         const checkedCategoryBoxes = document.querySelectorAll('#filter-options-wrapper input[type="checkbox"]:checked');
@@ -65,7 +65,7 @@ function initMap() {
         // 4. Now, loop through every marker
         allMarkers.forEach((marker, index) => {
           const listItem = allListItems[index]; 
-          const itemText = listItem.textContent.toLowerCase();
+          const itemText = listItem.textContent.toLowerCase().replace(/\s/g, '');
 
           // --- Check our THREE conditions ---
           
@@ -133,11 +133,16 @@ function initMap() {
                 infoWindow.open(map, userLocationMarker);
               });
               
-              map.panTo(userLocation);
-              map.setZoom(15);
+              map.panTo(userLocation); // 1. Start the smooth glide
+
+              // 2. Add a one-time listener for when the map stops moving
+              google.maps.event.addListenerOnce(map, 'idle', () => {
+                // 3. Once the glide is finished, set the zoom
+                map.setZoom(16);
+              });
               
             },
-            () => { 
+            () => {
               // This runs if geolocation fails or is denied
               alert("Error: The Geolocation service failed or you denied permission."); 
             }
@@ -251,9 +256,9 @@ function initMap() {
         // --- Marker Click Listener ---
         marker.addListener("click", () => {
           
-          // 1. Create a main container
-          const contentContainer = document.createElement("div");
-          contentContainer.style.width = "260px";
+        // 1. Create a main container
+        const contentContainer = document.createElement("div");
+        contentContainer.style.maxWidth = "260px";
 
           // 2. Add the text info
           const textInfo = document.createElement("div");
@@ -271,7 +276,8 @@ function initMap() {
 
           // 4. Create the <div> that will HOLD the Street View
           const panoramaContainer = document.createElement("div");
-          panoramaContainer.style.width = "250px";
+          panoramaContainer.style.width = "100%"; // <-- Make it fill its parent
+          panoramaContainer.style.boxSizing = "border-box"; // <-- Good practice!
           panoramaContainer.style.height = "150px";
           panoramaContainer.style.marginTop = "10px";
           panoramaContainer.style.borderRadius= "6px";
@@ -362,4 +368,3 @@ function initMap() {
     });
 
 } // End of initMap function
-
