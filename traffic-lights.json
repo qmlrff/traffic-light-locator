@@ -443,98 +443,98 @@
   {
 "code": "T 10",
 "description": "Taman Botanical / Hutan Reakrasi",
-"position": { "lat": 2.2287778, "lng": 102.2618333 },
+"position": { "lat": 2.253944, "lng": 102.242055 },
 "category": "Melaka Tengah",
 "intersectionType": "3 way"
   },
   {
 "code": "T 11",
 "description": "Persimpangan SIRIM",
-"position": { "lat": 2.2274722, "lng": 102.2579722 },
+"position": { "lat": 2.2287778, "lng": 102.2618333 },
 "category": "Melaka Tengah",
 "intersectionType": "4 way"
   },
   {
 "code": "T 12",
 "description": "FTZ Batu Berendam / Kilang TEAC",
-"position": { "lat": 2.2279722, "lng": 102.2544167 },
+"position": { "lat": 2.2274722, "lng": 102.2579722 },
 "category": "Melaka Tengah",
 "intersectionType": "3 way"
   },
   {
 "code": "T 13",
 "description": "Giant / Kamdar",
-"position": { "lat": 2.2317778, "lng": 102.2500278 },
+"position": { "lat": 2.2279722, "lng": 102.2544167 },
 "category": "Melaka Tengah",
 "intersectionType": "3 way"
   },
   {
 "code": "T 14",
 "description": "Bachang ke Melaka Sentral",
-"position": { "lat": 2.2359444, "lng": 102.2477778 },
+"position": { "lat": 2.2317778, "lng": 102.2500278 },
 "category": "Melaka Tengah",
 "intersectionType": "3 way"
   },
   {
 "code": "T 15 ",
 "description": "Persimpangan KIPMART",
-"position": { "lat": 2.2401944, "lng": 102.2451667 },
+"position": { "lat": 2.2359444, "lng": 102.2477778 },
 "category": "Melaka Tengah",
 "intersectionType": "3 way"
   },
   {
 "code": "T 16",
 "description": "Bachang / Malim",
-"position": { "lat": 2.2436389, "lng": 102.2367778 },
+"position": { "lat": 2.2401944, "lng": 102.2451667 },
 "category": "Melaka Tengah",
 "intersectionType": "4 way"
   },
   {
 "code": "T 17",
 "description": "Persimpangan Bulatan Malim",
-"position": { "lat": 2.2482222, "lng": 102.2401667 },
+"position": { "lat": 2.2436389, "lng": 102.2367778 },
 "category": "Melaka Tengah",
 "intersectionType": "4 way"
   },
   {
 "code": "T 18",
 "description": "Persimpangan Merdeka Permai",
-"position": { "lat": 2.2351389, "lng": 102.2616389 },
+"position": { "lat": 2.2482222, "lng": 102.2401667 },
 "category": "Melaka Tengah",
 "intersectionType": "4 way"
   },
   {
 "code": "T 19",
 "description": "Pengkalan Batu / SMK Sultan Muhammad",
-"position": { "lat": 2.2396667, "lng": 102.2592778 },
+"position": { "lat": 2.2351389, "lng": 102.2616389 },
 "category": "Melaka Tengah",
 "intersectionType": "3 way"
   },
   {
 "code": "T 20",
 "description": "Taman Melaka Baru",
-"position": { "lat": 2.2495, "lng": 102.2526389 },
+"position": { "lat": 2.2396667, "lng": 102.2592778 },
 "category": "Melaka Tengah",
 "intersectionType": "4 way"
   },
   {
 "code": "T 21",
 "description": "Kilang Biskut / Batu Berendam",
-"position": { "lat": 2.2539444, "lng": 102.2420556 },
+"position": { "lat": 2.2495, "lng": 102.2526389 },
 "category": "Melaka Tengah",
 "intersectionType": "4 way"
   },
   {
 "code": "T 22",
 "description": "Dominos Pizza / Taman Merdeka Permai",
-"position": { "lat": 2.2554444, "lng": 102.23825 },
+"position": { "lat": 2.2539444, "lng": 102.2420556 },
 "category": "Melaka Tengah",
 "intersectionType": "3 way"
   },
   {
 "code": "T 23",
 "description": "Taman Merdeka / Pasar Borong",
-"position": { "lat": 0, "lng": 0 },
+"position": { "lat": 2.2554444, "lng": 102.23825 },
 "category": "Melaka Tengah",
 "intersectionType": "4 way"
   },
