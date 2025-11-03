@@ -443,7 +443,7 @@
   {
 "code": "T 10",
 "description": "Taman Botanical / Hutan Reakrasi",
-"position": { "lat": 2.253944, "lng": 102.242055 },
+"position": { "lat": 2.278915, "lng": 102.299766},
 "category": "Melaka Tengah",
 "intersectionType": "3 way"
   },
@@ -2261,3 +2261,4 @@
 "intersectionType": "3 way"
   }
 ]
+
