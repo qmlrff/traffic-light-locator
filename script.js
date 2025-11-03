@@ -221,9 +221,9 @@ function initMap() {
         } else if (light.category === "Alor Gajah") {
           pinColor = "#800080";
         } else if (light.category === "Melaka Tengah"){
-          pinColor = "#ffcb10ff";
+          pinColor = "#800080";
         } else if (light.category === "Jasin"){
-          pinColor = "#659f14ff";
+          pinColor = "#800080";
         } else {
           pinColor = "#6c757d";
         }
